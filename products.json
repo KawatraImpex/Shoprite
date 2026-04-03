@@ -1,0 +1,978 @@
+﻿{
+    "categories":  [
+                       {
+                           "subcategories":  [
+                                                 {
+                                                     "name":  "General",
+                                                     "products":  [
+
+                                                                  ]
+                                                 }
+                                             ],
+                           "name":  "Accessories"
+                       },
+                       {
+                           "subcategories":  [
+                                                 {
+                                                     "name":  "Body Care",
+                                                     "products":  [
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "African Local Sponge (kankan Ibile) Organic Exfoliating bath Spnge, Shower sponge",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/African Local Sponge (kankan Ibile) Organic Exfoliating bath Spnge, Shower sponge.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Argeville Carambola Black Spots Herbal Soap New Honey 120g",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Argeville Carambola Black Spots Herbal Soap New Honey 120g.avif"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "B.B Clear Dark spot remover",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/B.B Clear Dark spot remover.avif"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "B.B Clear lightening Body Lotion 300ml",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/B.B Clear lightening Body Lotion 300ml.jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "B.B Clear Serum",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/B.B Clear Serum.jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "B.B Clear Skin Respectful oil Lightening Eclaircissant Aclarador Oil",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/B.B Clear Skin Respectful oil Lightening Eclaircissant Aclarador Oil.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "B.B Clear Soap Clarifying Lightening Soap 190g",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/B.B Clear Soap Clarifying Lightening Soap 190g.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Beneks fashion Fair cream fast action tube - 25g",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Beneks fashion Fair cream fast action tube - 25g.jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Beneks Fashion Fair Gel plus fast action tube - 30g",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Beneks Fashion Fair Gel plus fast action tube - 30g.avif"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Bio Claire Lightening Soap 6.7 oz",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Bio Claire Lightening Soap 6.7 oz.jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Caro White Body Lotion 300ml",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Caro White Body Lotion 300ml.jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Caro White Body Lotion 500ml",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Caro White Body Lotion 500ml.avif"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Caro white lightening beauty cream 120ml",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Caro white lightening beauty cream 120ml.jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "caro White Lightening Beauty Cream 500ml",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/caro White Lightening Beauty Cream 500ml.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Caro White Lightening Beauty Soap with carrot oil 180g",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Caro White Lightening Beauty Soap with carrot oil 180g.avif"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Caro White Oil - Lightening Oil 50ml",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Caro White Oil - Lightening Oil 50ml.jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Caro White tube 30g",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Caro White tube 30g.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Carotone Black spot Corrector B.S.C Serum Maxi effect concentrated Formula 30ml",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Carotone Black spot Corrector B.S.C Serum Maxi effect concentrated Formula 30ml.jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Carotone Brightening Oil 2.2 Oz",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Carotone Brightening Oil 2.2 Oz.jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Carotone Brightening Soap 6.7 Oz ( Skin Lightening Treatment)  190g",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Carotone Brightening Soap 6.7 Oz ( Skin Lightening Treatment)  190g.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Carotone Light \u0026 Bright Natural Brightening Body lotion 350ml",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Carotone Light \u0026 Bright Natural Brightening Body lotion 350ml.jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Carotone Light \u0026 Natural Trio Black Spot Corrector Trio",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Carotone Light \u0026 Natural Trio Black Spot Corrector Trio.jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Carotone Light Natural brightening body lotion 215ml",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Carotone Light Natural brightening body lotion 215ml.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Carotone light Natural Brightening Body lotion with sun protection 500ml",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Carotone light Natural Brightening Body lotion with sun protection 500ml.jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Carotone Natural Glow Clarifying Cream - 300ml",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Carotone Natural Glow Clarifying Cream - 300ml.jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Citroclear Concentrated Serum with lemon extracts 50ml",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Citroclear Concentrated Serum with lemon extracts 50ml.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Clinic Clear Body Oil 125ml",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Clinic Clear Body Oil 125ml.avif"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Clinic Clear Swiss formula Whitening Body Care Soap 225g",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Clinic Clear Swiss formula Whitening Body Care Soap 225g.jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Clinic Clear Whitening Body Lotion 250ml",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Clinic Clear Whitening Body Lotion 250ml.avif"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Clinic Clear Whitening Body Lotion 500ml",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Clinic Clear Whitening Body Lotion 500ml.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Clinic Clear Whitening Cream 50g",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Clinic Clear Whitening Cream 50g.jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "CT+ Clear Therapy Extra Lightening Lotion with carrot oil 250ml",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/CT+ Clear Therapy Extra Lightening Lotion with carrot oil 250ml.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "CT+ Clear therapy extra lightening lotion with carrot oil 500ml",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/CT+ Clear therapy extra lightening lotion with carrot oil 500ml.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "CT+ Clear Therapy Lightening Purifying Soap with carrot oil",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/CT+ Clear Therapy Lightening Purifying Soap with carrot oil.avif"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "CT+ Cleart Therapy intensive Serum with Carrot oil 75ml",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/CT+ Cleart Therapy intensive Serum with Carrot oil 75ml.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Dudu Osun African Black Soap",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Dudu Osun African Black Soap.jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Epiderm Cream Triple Action 30g",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Epiderm Cream Triple Action 30g.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Esapharma Lemonvate gel tube 30g",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Esapharma Lemonvate gel tube 30g.jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Esapharma Movate Tube gel 30g",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Esapharma Movate Tube gel 30g.avif"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Esapharma Oranvate gel Tube- 3og",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Esapharma Oranvate gel Tube- 3og.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Extracxt Papaya Clamansi Whitening herbal soap 125g",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Extracxt Papaya Clamansi Whitening herbal soap 125g.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "F\u0026W So White Brightening Shower Gel 1000ml",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/F\u0026W So White Brightening Shower Gel 1000ml.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "F\u0026W So White Perfector Serum",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/F\u0026W So White Perfector Serum.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Fair and White Carrot Brightening Tonifying-Shower 1000ml",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Fair and White Carrot Brightening Tonifying-Shower 1000ml.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Fair and white fair\u0026white GOLD 2 Revitalizing Body Lotion -500ml",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Fair and white fair\u0026white GOLD 2 Revitalizing Body Lotion -500ml.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Fair and White Lait Corps exclusive Whitenizer Body Lotion - 500ml",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Fair and White Lait Corps exclusive Whitenizer Body Lotion - 500ml.avif"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Fair\u0026White 3 Gold Rejuvenating Moisture Lotion 17.6 fl. oz 500ml",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Fair\u0026White 3 Gold Rejuvenating Moisture Lotion 17.6 fl. oz 500ml.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Fair\u0026white Lait Power C exclusive whitenizer Body Lotion with Vitamin C 500ml",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Fair\u0026white Lait Power C exclusive whitenizer Body Lotion with Vitamin C 500ml.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Fair\u0026white So white Brightening Oil 250ml",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Fair\u0026white So white Brightening Oil 250ml.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Fair\u0026White So White Maxi tone clarifying body milk 8.45 oz 250ml",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Fair\u0026White So White Maxi tone clarifying body milk 8.45 oz 250ml.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Light Up Dark Spots Correcting beauty lotion 400ml",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Light Up Dark Spots Correcting beauty lotion 400ml.avif"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Nixoderm Tube Cream",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Nixoderm Tube Cream.avif"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Original Crusader Medicated Soap Made In England 80g",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Original Crusader Medicated Soap Made In England 80g.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Paw Paw Clarifying Body lotion with Vitamin E and Papaya extracts 300ml",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Paw Paw Clarifying Body lotion with Vitamin E and Papaya extracts 300ml.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Paw Paw Clarifying Body lotion with Vitamin E and papaya extracts 500ml",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Paw Paw Clarifying Body lotion with Vitamin E and papaya extracts 500ml.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Paw Paw Clarifying Body Oil with Vitamin E and Papaya extracts 60ml",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Paw Paw Clarifying Body Oil with Vitamin E and Papaya extracts 60ml.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Paw Paw Clarifying Body Soap with Vitamin E and papaya extracts 180g",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Paw Paw Clarifying Body Soap with Vitamin E and papaya extracts 180g.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Paw Paw extract raidance activating Booster serum with Vitamin E - One piece",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Paw Paw extract raidance activating Booster serum with Vitamin E - One piece.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Precious Perfect Revitalizing Fade Lotion 500ml",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Precious Perfect Revitalizing Fade Lotion 500ml.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Queen Elisabeth Cocoa butter hand and body lotion Cream 250ml",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Queen Elisabeth Cocoa butter hand and body lotion Cream 250ml.jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Raw Organic African Black Soap 125g",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Raw Organic African Black Soap 125g.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Raw Organic African Black Soap 250g",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Raw Organic African Black Soap 250g.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Vaseline Intensive care Cocoa Radiant , Vitalizing Body oil 6.8 fi oz - 200ml",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Vaseline Intensive care Cocoa Radiant , Vitalizing Body oil 6.8 fi oz - 200ml.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Vaseline Intensive Care Vitalizing Gel Body oil with Brazillian Nuts and Almond oil 6.8 fi oz-Rich 200ml",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Vaseline Intensive Care Vitalizing Gel Body oil with Brazillian Nuts and Almond oil 6.8 fi oz-Rich 200ml.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Vaseline Intensive Care Vitamin B3 body oil 200ml",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Vaseline Intensive Care Vitamin B3 body oil 200ml.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Veet Gold Original Turmeric Super whitrening body \u0026 face repair oil dark spot \u0026 anti-aging",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Veet Gold Original Turmeric Super whitrening body \u0026 face repair oil dark spot \u0026 anti-aging.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Veet Gold turmeric Body oil gel anti blemish and Anti dark spot 7 days active Whitening",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Veet Gold turmeric Body oil gel anti blemish and Anti dark spot 7 days active Whitening.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Veet Gold turmeric Super Whitening Body Repair Soap Anti Dark Spot and Anti Aging 250g",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Veet Gold turmeric Super Whitening Body Repair Soap Anti Dark Spot and Anti Aging 250g.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Veet Gold Vitamin C face And body corrector 7 days glowing oil 200ml",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/Veet Gold Vitamin C face And body corrector 7 days glowing oil 200ml.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "White Secret Lightening Body Lotion ( Bright result from the very dirst 5 days) 200ml",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/White Secret Lightening Body Lotion ( Bright result from the very dirst 5 days) 200ml.jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "White Secret Lightening Body Lotion ( Bright result from the very dirst 5 days) 300ml",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/White Secret Lightening Body Lotion ( Bright result from the very dirst 5 days) 300ml.jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "White Secret Lightening Body lotion 500ml",
+                                                                          "image":  "images/Beauty and personal Care/Body Care/White Secret Lightening Body lotion 500ml.jpg"
+                                                                      }
+                                                                  ]
+                                                 },
+                                                 {
+                                                     "name":  "Hare Care",
+                                                     "products":  [
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "10 Piece Small Size Mixed Color Bending Rollers",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/10 Piece Small Size Mixed Color Bending Rollers.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "10 Pieces Big size Mixed Color Bending Rollers",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/10 Pieces Big size Mixed Color Bending Rollers.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "10 Pieces Medium Size Mixed Color Bending Rollers",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/10 Pieces Medium Size Mixed Color Bending Rollers.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Above Hair Styling Holding Mousse (Spray) Ultra Hold with Extra Conditioner 200ml",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/Above Hair Styling Holding Mousse (Spray) Ultra Hold with Extra Conditioner 200ml.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Above Hair Styling Holding Mousse (Spray) Ultra Hold with Extra Conditioner 400ml",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/Above Hair Styling Holding Mousse (Spray) Ultra Hold with Extra Conditioner 400ml.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "BMB Wig Lace Glue Tube 1 oz by BMB",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/BMB Wig Lace Glue Tube 1 oz by BMB.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Cantu Argan Oil leave in conditioning repair cream , 16 Ounce",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/Cantu Argan Oil leave in conditioning repair cream , 16 Ounce.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Cantu Avocado Hydrating Cream Conditioner 400ml",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/Cantu Avocado Hydrating Cream Conditioner 400ml.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Cantu Avocado Sulfate Free Cream Conditioner with Avocado Oil \u0026 Shea Butter 13.5 FI Oz (400ml)",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/Cantu Avocado Sulfate Free Cream Conditioner with Avocado Oil \u0026 Shea Butter 13.5 FI Oz (400ml).webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Cantu Care for kids Conditioning Detangler , 6 Fluid Ounce",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/Cantu Care for kids Conditioning Detangler , 6 Fluid Ounce.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Cantu Coconut Curling cream , 12 Ounce",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/Cantu Coconut Curling cream , 12 Ounce.avif"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Cantu Flaxseed Conditioner Leave In or Rinse Out 400ml",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/Cantu Flaxseed Conditioner Leave In or Rinse Out 400ml.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Cantu Flaxseed Sulfate-Free Exfoloating Shampoo with FLaxseed oil \u0026 Shea Butter 400ml",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/Cantu Flaxseed Sulfate-Free Exfoloating Shampoo with FLaxseed oil \u0026 Shea Butter 400ml.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Cantu Grapeseed Strengthening Conditioner 400ml",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/Cantu Grapeseed Strengthening Conditioner 400ml.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Cantu Grapeseed Strengthening Shampoo Sulfate Free (13.5oz) 400ml",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/Cantu Grapeseed Strengthening Shampoo Sulfate Free (13.5oz) 400ml.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Cantu Shea Butter for Natural Hair Conditioning Co- wash , 10 ounce",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/Cantu Shea Butter for Natural Hair Conditioning Co- wash , 10 ounce.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Cantu Shea Butter for Natural Hair leave in Conditioning Repair cream 340g",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/Cantu Shea Butter for Natural Hair leave in Conditioning Repair cream 340g.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Cantu Shea Butter Moisturizing Curl Activator Cream 355ml",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/Cantu Shea Butter Moisturizing Curl Activator Cream 355ml.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Canty Extra Hold Edge Stay Gel 64g, 2.25 oz",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/Canty Extra Hold Edge Stay Gel 64g, 2.25 oz.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Damatol Medicated Hair \u0026 Scalp Treatment 55g",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/Damatol Medicated Hair \u0026 Scalp Treatment 55g.jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Dark \u0026 Lovely Hair Relaxer Kit - Regular",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/Dark \u0026 Lovely Hair Relaxer Kit - Regular.jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Dop Shampoo With Egg 100ml",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/Dop Shampoo With Egg 100ml.jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Eco Professional Styling Gel Olive Oil 236ml",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/Eco Professional Styling Gel Olive Oil 236ml.avif"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Eco Styler Gel olive oil 8 oz 236ml",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/Eco Styler Gel olive oil 8 oz 236ml.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Freedom Collection DADA Locs Dreadlock Synthetic Crochet - Maroon",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/Freedom Collection DADA Locs Dreadlock Synthetic Crochet - Maroon.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Kuza 100% Indian Hemp Hair \u0026 Scalp Treatment 8oz. 226g",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/Kuza 100% Indian Hemp Hair \u0026 Scalp Treatment 8oz. 226g.jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Lanell Hair Bonding Glue 30ml",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/Lanell Hair Bonding Glue 30ml.jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Mouldin Maximum Hold Dreadloc Wax Gel 250ml",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/Mouldin Maximum Hold Dreadloc Wax Gel 250ml.jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "ORS Olive Oil No lye Relaxer Kit, Normal",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/ORS Olive Oil No lye Relaxer Kit, Normal.jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "ORS Olive Oil No Lye Relaxer Sachet - regular",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/ORS Olive Oil No Lye Relaxer Sachet - regular.jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "ORS Olive Oil Nourishing Sheen ASpray 472ml",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/ORS Olive Oil Nourishing Sheen ASpray 472ml.avif"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Parting Comb for Braiding Wooden Afro Pick Comb",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/Parting Comb for Braiding Wooden Afro Pick Comb.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Petals Super Hold Black Styling Gel 100ml",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/Petals Super Hold Black Styling Gel 100ml.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "PROFECTIVE - Mega Growth Anti Damage No Lye Hair Relaxer - Super Strength",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/PROFECTIVE - Mega Growth Anti Damage No Lye Hair Relaxer - Super Strength.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Profective Mega Growth Daily Leave In Strengthener 250g",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/Profective Mega Growth Daily Leave In Strengthener 250g.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Profective Mega Growth Daily Leave In Strengthener 500ml",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/Profective Mega Growth Daily Leave In Strengthener 500ml.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Profective Mega Growth Deep Conditioner Rinse Out 250g",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/Profective Mega Growth Deep Conditioner Rinse Out 250g.jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Sachet Profectiv Mega Growth Anti-Damage No - Iye Relaxer - Regular kit",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/Sachet Profectiv Mega Growth Anti-Damage No - Iye Relaxer - Regular kit.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Soul Mate African Herbal Hair Cream 80g",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/Soul Mate African Herbal Hair Cream 80g.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Soul Mate Hair Conditioner Plus Hair Cream for Growth \u0026 treatment 100g",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/Soul Mate Hair Conditioner Plus Hair Cream for Growth \u0026 treatment 100g.jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Soul Mate Hair Conditioner Plus Hair Cream For Growth \u0026 treatment 52g",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/Soul Mate Hair Conditioner Plus Hair Cream For Growth \u0026 treatment 52g.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Soul Mate Hair Conditioner Plus Hair Cream for Growth \u0026 treatment 650g",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/Soul Mate Hair Conditioner Plus Hair Cream for Growth \u0026 treatment 650g.jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Spiral Hair Curlers Rollers perm Rod for Hair Styling 20pc",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/Spiral Hair Curlers Rollers perm Rod for Hair Styling 20pc.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Strong Hair Wax Gel Edge Control 100g (one piece)",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/Strong Hair Wax Gel Edge Control 100g (one piece).avif"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Thormona Malaysia 22\u002724\u002726 Long Ombre Straight Synthetic Weave - with closure",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/Thormona Malaysia 22\u002724\u002726 Long Ombre Straight Synthetic Weave - with closure.webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "UB Universal Basic Hair relaxer 250ml",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/UB Universal Basic Hair relaxer 250ml.jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "virgin Hair fertilizer 125g",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/virgin Hair fertilizer 125g.jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Virgin Hair Fertilizer 55g",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/Virgin Hair Fertilizer 55g.jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Price on Inquiry",
+                                                                          "name":  "Zenon So-Fine Classique Anti-Dandruff Hair Darkening Cream 100g",
+                                                                          "image":  "images/Beauty and personal Care/Hare Care/Zenon So-Fine Classique Anti-Dandruff Hair Darkening Cream 100g.jpg"
+                                                                      }
+                                                                  ]
+                                                 },
+                                                 {
+                                                     "name":  "Makeup",
+                                                     "products":  [
+
+                                                                  ]
+                                                 }
+                                             ],
+                           "name":  "Beauty and personal Care"
+                       },
+                       {
+                           "subcategories":  [
+                                                 {
+                                                     "name":  "African Wax print",
+                                                     "products":  [
+
+                                                                  ]
+                                                 },
+                                                 {
+                                                     "name":  "Dashiki Unisex Shirt",
+                                                     "products":  [
+
+                                                                  ]
+                                                 }
+                                             ],
+                           "name":  "Clothes"
+                       },
+                       {
+                           "subcategories":  [
+                                                 {
+                                                     "name":  "African Food Items",
+                                                     "products":  [
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Abacha ( African Salad ) Dried Casava flakes 50g",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Abacha ( African Salad ) Dried Casava flakes 50g [Rs 100].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Achi Seed - Akpa Soup Thickener Dried 30g",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Achi Seed - Akpa Soup Thickener Dried 30g [Rs 100].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 200",
+                                                                          "name":  "Aguleri-Ede-Uri-Cocoyam-Soup-Thickener-200",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Aguleri-Ede-Uri-Cocoyam-Soup-Thickener-200 [Rs 200].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Akpi- Djansang - Njanan - Okhuen - Bofeko 30g",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Akpi- Djansang - Njanan - Okhuen - Bofeko 30g [Rs 100].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 475",
+                                                                          "name":  "Ayoola Pando Yam Flour 450g",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Ayoola Pando Yam Flour 450g [Rs 475].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 950",
+                                                                          "name":  "Ayoola Pando Yam Flour 900g",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Ayoola Pando Yam Flour 900g [Rs 950].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 550",
+                                                                          "name":  "Banga Fresh Palm Fruit Extract , Palm Butter 400g",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Banga Fresh Palm Fruit Extract , Palm Butter 400g [Rs 550].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 1050",
+                                                                          "name":  "Banga Fresh Palm Fruit Extract , Palm Butter 800g",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Banga Fresh Palm Fruit Extract , Palm Butter 800g [Rs 1050].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 400",
+                                                                          "name":  "Butter Blue band original butter 250g",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Butter Blue band original butter 250g [Rs 400].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Country Onion, Pucks, olum, Bobimbi, Rondelles 25g",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Country Onion, Pucks, olum, Bobimbi, Rondelles 25g [Rs 100].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "CrayFish (Dried Shrimps)",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/CrayFish (Dried Shrimps) [Rs 100].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Dried Bitter Leaves (Onugbu)",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Dried Bitter Leaves (Onugbu) [Rs 100].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Dried Camroon Pepper",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Dried Camroon Pepper [Rs 100].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 550",
+                                                                          "name":  "Dried Catfish (Smoked) Up to 500g (Fish)",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Dried Catfish (Smoked) Up to 500g (Fish) [Rs 550].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Dried Okazi-Ukazi leaves",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Dried Okazi-Ukazi leaves [Rs 100].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 1250",
+                                                                          "name":  "Dried Organic Tiger Nuts , Aya (Chufa Nuts) 1kg",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Dried Organic Tiger Nuts , Aya (Chufa Nuts) 1kg [Rs 1250].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Dried Periwinkles 30g (Soak it Overnight for Best Result)",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Dried Periwinkles 30g (Soak it Overnight for Best Result) [Rs 100].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 250",
+                                                                          "name":  "Dried Pomo-Kpomo Original",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Dried Pomo-Kpomo Original [Rs 250].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Dried Red Chilli Pepper",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Dried Red Chilli Pepper [Rs 100].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Dried Ura-Uha Leaves",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Dried Ura-Uha Leaves [Rs 100].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Dried Uziza Leaves - Piper - Guineense - Ashanti - pepper - Black pepper",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Dried Uziza Leaves - Piper - Guineense - Ashanti - pepper - Black pepper [Rs 100].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 50",
+                                                                          "name":  "Egusi Onga Spices Powder For Egusi Soup 8g",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Egusi Onga Spices Powder For Egusi Soup 8g [Rs 50].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 350",
+                                                                          "name":  "Exeter Corned Beef Halal 200g - one piece",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Exeter Corned Beef Halal 200g - one piece [Rs 350].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Garri Processed Cassava yellow 140g",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Garri Processed Cassava yellow 140g [Rs 100].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Gino Tomato Paste 70g",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Gino Tomato Paste 70g [Rs 100].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 250",
+                                                                          "name":  "Golden 521 K.S Aromatic Basmati Rice 1kg",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Golden 521 K.S Aromatic Basmati Rice 1kg [Rs 250].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 200",
+                                                                          "name":  "Gustora Pasta Spaghetti Golden 500g",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Gustora Pasta Spaghetti Golden 500g [Rs 200].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Ijebu Garri processed Cassava white 140g",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Ijebu Garri processed Cassava white 140g [Rs 100].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 550",
+                                                                          "name":  "Ijebu Garri Processed Cassava white garri 1kg",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Ijebu Garri Processed Cassava white garri 1kg [Rs 550].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 1100",
+                                                                          "name":  "INDOMIE Instant Noodles Chicken Flavour ( Box 40 X 70G)",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/INDOMIE Instant Noodles Chicken Flavour ( Box 40 X 70G) [Rs 1100].avif"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 27.50",
+                                                                          "name":  "Indomie Instant Noodles Chicken Flavour- Small 70g Pack",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Indomie Instant Noodles Chicken Flavour- Small 70g Pack [Rs 27.50].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 250",
+                                                                          "name":  "kilishi kusha shagalinku kilishi 70g Tasty beef jerky - Suya",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/kilishi kusha shagalinku kilishi 70g Tasty beef jerky - Suya [Rs 250].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 50",
+                                                                          "name":  "Larsor Chicken Seasoning",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Larsor Chicken Seasoning [Rs 50].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 250",
+                                                                          "name":  "Mickeys Custard Powder Vanilla Flavour 1kg",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Mickeys Custard Powder Vanilla Flavour 1kg [Rs 250].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Orima Seeds , Ataiko Seed purelyagro - Orioma banga Spice 25g",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Orima Seeds , Ataiko Seed purelyagro - Orioma banga Spice 25g [Rs 100].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 250",
+                                                                          "name":  "Palm OIl 250ml",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Palm OIl 250ml [Rs 250].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 500",
+                                                                          "name":  "Palm Oil 500ml -",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Palm Oil 500ml - [Rs 500].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 200",
+                                                                          "name":  "Peak Full Cream Evaporated Milk 150g 5.4 oz",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Peak Full Cream Evaporated Milk 150g 5.4 oz [Rs 200].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 200",
+                                                                          "name":  "Prekese (Soup Perfume) Osakirisa, Aidan Fruit, Uhio Uyayak",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Prekese (Soup Perfume) Osakirisa, Aidan Fruit, Uhio Uyayak [Rs 200].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 550",
+                                                                          "name":  "Royco Flavour Seasoning Cube 100 Cubes",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Royco Flavour Seasoning Cube 100 Cubes [Rs 550].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Royco Flavour Seasoning Cube 14 Cubes",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Royco Flavour Seasoning Cube 14 Cubes [Rs 100].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Seahath - Sardines in Vegetable oil 125g",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Seahath - Sardines in Vegetable oil 125g [Rs 100].avif"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 350",
+                                                                          "name":  "Stockfish Fins 100g",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Stockfish Fins 100g [Rs 350].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 450",
+                                                                          "name":  "Stockfish Head",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Stockfish Head [Rs 450].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 500",
+                                                                          "name":  "Stockfish Head",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Stockfish Head [Rs 500].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 750",
+                                                                          "name":  "Stockfish Head",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Stockfish Head [Rs 750].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 350",
+                                                                          "name":  "Stockish Head",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Stockish Head [Rs 350].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Suya Spices Authentic Home made Suya Powder 30g",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Suya Spices Authentic Home made Suya Powder 30g [Rs 100].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 50",
+                                                                          "name":  "Tiger Curry Powder Sachet 100% Natural 10g",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Tiger Curry Powder Sachet 100% Natural 10g [Rs 50].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 50",
+                                                                          "name":  "Tiger Nutmeg Powder 100% from Nutmeg Seeds",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Tiger Nutmeg Powder 100% from Nutmeg Seeds [Rs 50].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 200",
+                                                                          "name":  "Titus Sardines 125g",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Titus Sardines 125g [Rs 200].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Tom Tom Strong Menthol Flavored Candy 7 pieces",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Tom Tom Strong Menthol Flavored Candy 7 pieces [Rs 100].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 400",
+                                                                          "name":  "Tom Tom Strong Menthol Flavoured Candy 40 pcs full pack",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Tom Tom Strong Menthol Flavoured Candy 40 pcs full pack [Rs 400].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Ulo-Uro Unsalted Roasted Edible Clay African Natural Chunky Crunchy clays Eko , Nzu, Ulo, Efun and Ndom 50g",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Ulo-Uro Unsalted Roasted Edible Clay African Natural Chunky Crunchy clays Eko , Nzu, Ulo, Efun and Ndom 50g [Rs 100].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Umilo-Emilo-Omilo Cocoplum Seed Paradise plum Seed 25g",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Umilo-Emilo-Omilo Cocoplum Seed Paradise plum Seed 25g [Rs 100].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs  NA",
+                                                                          "name":  "Yam Available on Demand",
+                                                                          "image":  "images/Food Products and Drinks/African Food Items/Yam Available on Demand [Rs  NA].avif"
+                                                                      }
+                                                                  ]
+                                                 },
+                                                 {
+                                                     "name":  "Beverages",
+                                                     "products":  [
+
+                                                                  ]
+                                                 },
+                                                 {
+                                                     "name":  "Drinks",
+                                                     "products":  [
+
+                                                                  ]
+                                                 },
+                                                 {
+                                                     "name":  "Snacks",
+                                                     "products":  [
+
+                                                                  ]
+                                                 },
+                                                 {
+                                                     "name":  "Spices",
+                                                     "products":  [
+
+                                                                  ]
+                                                 },
+                                                 {
+                                                     "name":  "Ungrouped",
+                                                     "products":  [
+
+                                                                  ]
+                                                 }
+                                             ],
+                           "name":  "Food Products and Drinks"
+                       }
+                   ]
+}

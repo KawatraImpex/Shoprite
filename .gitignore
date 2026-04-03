@@ -1,0 +1,13 @@
+# Local development
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Project-specific ignores
+# We keep products.json and all_products.json as they are used by the static site.
+.antigravity/

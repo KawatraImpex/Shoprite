@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ShopRite - African Products in India</title>
+    <meta name="description"
+        content="Premium African products in India. Shop accessories, beauty, clothes, and food at ShopRite.">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@500;600;700&display=swap"
+        rel="stylesheet">
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <header class="main-header">
+        <div class="header-top">
+            <div class="container">
+                <a href="#" class="logo" id="home-link">
+                    <span class="logo-text">Shop<span class="logo-accent">Rite</span></span>
+                </a>
+                <div class="search-container">
+                    <input type="text" id="search-input" placeholder="Search for products...">
+                    <button id="search-button"><i class="fas fa-search"></i></button>
+                    <button id="contact-trigger" class="btn btn-secondary contact-now">Contact Us</button>
+                </div>
+            </div>
+        </div>
+        <nav class="main-nav">
+            <div class="container">
+                <ul id="nav-list">
+                    <!-- Nav items will be injected here -->
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <section id="hero" class="hero">
+            <div class="container">
+                <div class="hero-content">
+                    <h1>Authentic African Products</h1>
+                    <p>Elevate your lifestyle with premium quality African goods. Fast delivery across India.</p>
+                    <a href="#all-products" class="btn btn-primary" id="shop-now">Shop All Products</a>
+                </div>
+            </div>
+        </section>
+
+        <section id="contact-us" class="contact-section" style="display: none;">
+            <div class="container">
+                <div class="section-header">
+                    <h2>Contact Us</h2>
+                    <p>We'd love to hear from you. Reach out via any of the channels below.</p>
+                </div>
+                <div class="contact-grid">
+                    <a href="mailto:shopriteind@gmail.com" class="contact-card">
+                        <div class="contact-icon"><i class="fas fa-envelope"></i></div>
+                        <h3>Email Us</h3>
+                        <p>shopriteind@gmail.com</p>
+                    </a>
+                    <div class="contact-card">
+                        <div class="contact-icon"><i class="fab fa-whatsapp"></i></div>
+                        <h3>WhatsApp</h3>
+                        <p>
+                            <a href="https://wa.me/918700304308" class="contact-link">+91 8700304308</a><br>
+                            <a href="https://wa.me/919958127204" class="contact-link">+91 9958127204</a>
+                        </p>
+                    </div>
+                    <div class="contact-card">
+                        <div class="contact-icon"><i class="fas fa-map-marker-alt"></i></div>
+                        <h3>Our Location</h3>
+                        <p>B41 mainroad uttam nagar</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="products-section" class="products-section">
+            <div class="container">
+                <div class="section-header">
+                    <h2 id="current-view-title">Our Products</h2>
+                    <div id="breadcrumb" class="breadcrumb"></div>
+                </div>
+                <div id="product-grid" class="product-grid">
+                    <!-- Products will be injected here -->
+                    <div class="loader">Loading products...</div>
+                </div>
+                <div id="pagination" class="pagination">
+                    <!-- Pagination buttons will be injected here -->
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="main-footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-col">
+                    <h3>ShopRite</h3>
+                    <p>Your one-stop shop for authentic African products in India.</p>
+                </div>
+                <div class="footer-col">
+                    <h3>Categories</h3>
+                    <ul id="footer-categories">
+                        <!-- Categories will be injected here -->
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h3>Contact</h3>
+                    <p>WhatsApp: +91 8700304308</p>
+                    <p>India Office:B41,mainroad uttam nagar,new delhi</p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                &copy; 2026 ShopRite. All rights reserved.
+            </div>
+        </div>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
