@@ -523,6 +523,9 @@ body {
     .product-grid {
         grid-template-columns: repeat(2, 1fr);
     }
+    .contact-grid {
+        grid-template-columns: 1fr;
+    }
     .header-top .container {
         flex-direction: column;
         align-items: flex-start;
