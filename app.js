@@ -176,21 +176,25 @@ document.addEventListener('DOMContentLoaded', () => {
         window.scrollTo({ top: 0, behavior: 'smooth' });
     }
 
+    function shuffleArray(array) {
+        const newArr = [...array];
+        for (let i = newArr.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [newArr[i], newArr[j]] = [newArr[j], newArr[i]];
+        }
+        return newArr;
+    }
+
     function showHomePage() {
         currentPage = 1;
         productsSection.style.display = 'block';
         heroSection.style.display = 'flex';
         contactSection.style.display = 'none';
-        const homeCat = categories.find(c => c.name === "Home Page Products");
-        if (homeCat) {
-            filteredProducts = homeCat.subcategories.flatMap(s => s.products);
-            currentViewTitle.textContent = "Featured Products";
-            updateBreadcrumb(["Home"]);
-        } else {
-            filteredProducts = allProducts.slice(0, 32); 
-            currentViewTitle.textContent = "All Products";
-            updateBreadcrumb(["Home"]);
-        }
+        
+        // Feature 32 random products on the homepage
+        filteredProducts = shuffleArray(allProducts).slice(0, 32); 
+        currentViewTitle.textContent = "Featured Products";
+        updateBreadcrumb(["Home"]);
         renderProducts();
     }
 
@@ -307,7 +311,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             const addToCartBtn = document.createElement('button');
             addToCartBtn.className = 'add-to-cart-btn';
-            addToCartBtn.innerHTML = '<i class="fas fa-cart-plus"></i>';
+            addToCartBtn.innerHTML = '<i class="fas fa-plus"></i>';
             addToCartBtn.title = 'Add to Cart';
             addToCartBtn.addEventListener('click', (e) => {
                 e.stopPropagation();
