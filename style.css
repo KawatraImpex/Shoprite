@@ -158,16 +158,9 @@ body {
     display: flex;
     list-style: none;
     gap: 0;
-    justify-content: flex-start; /* Start from left on mobile if scrolling */
+    justify-content: flex-end;
     width: 100%;
-    flex-wrap: nowrap; /* Keep on one line */
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-    scrollbar-width: none; /* Hide scrollbar Firefox */
-}
-
-#nav-list::-webkit-scrollbar {
-    display: none; /* Hide scrollbar Chrome/Safari */
+    flex-wrap: wrap; /* Default to wrap for desktop dropdowns to work */
 }
 
 #nav-list li:first-child {
@@ -549,6 +542,18 @@ body {
     #contact-trigger {
         margin-left: 0;
         padding: 8px 15px;
+    }
+
+    #nav-list {
+        flex-wrap: nowrap; /* Side-scrolling on mobile */
+        overflow-x: auto;
+        justify-content: flex-start;
+        -webkit-overflow-scrolling: touch;
+        scrollbar-width: none;
+    }
+
+    #nav-list::-webkit-scrollbar {
+        display: none;
     }
     .hero h1 {
         font-size: 2rem;
