@@ -1,11 +1,23 @@
 $root = "images"
 $manifest = @{
     categories = @()
+    gallery    = @()
 }
 
 $categories = Get-ChildItem -Path $root -Directory
 foreach ($catDir in $categories) {
     if ($catDir.Name -eq "Home Page Products") { continue }
+    
+    # Handle Gallery separately
+    if ($catDir.Name -eq "Gallery") {
+        $files = Get-ChildItem -Path $catDir.FullName -File -Filter *.* | Where-Object { $_.Extension -match "jpg|jpeg|png|webp|avif" }
+        foreach ($file in $files) {
+            $manifest.gallery += @{
+                image = "images/Gallery/$($file.Name)"
+            }
+        }
+        continue
+    }
     
     $category = @{
         name          = $catDir.Name
@@ -61,4 +73,4 @@ foreach ($catDir in $categories) {
 }
 
 $manifest | ConvertTo-Json -Depth 10 | Out-File -FilePath "products.json" -Encoding utf8
-Write-Host "Manifest generated successfully with prices from filenames!"
+Write-Host "Manifest generated successfully with Gallery images!"

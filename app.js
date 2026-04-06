@@ -12,12 +12,15 @@ document.addEventListener('DOMContentLoaded', () => {
     const searchButton = document.getElementById('search-button');
     const contactTrigger = document.getElementById('contact-trigger');
     const homeLink = document.getElementById('home-link');
+    const gallerySection = document.getElementById('gallery-section');
+    const galleryGrid = document.getElementById('gallery-grid');
 
     let allProducts = [];
     let filteredProducts = [];
     let currentPage = 1;
     const itemsPerPage = 16;
     let categories = [];
+    let galleryImages = [];
     let cart = [];
 
     // Cart Elements
@@ -34,6 +37,7 @@ document.addEventListener('DOMContentLoaded', () => {
         .then(response => response.json())
         .then(data => {
             categories = data.categories;
+            galleryImages = data.gallery || [];
             // Flatten all products for search functionality
             allProducts = [];
             categories.forEach(cat => {
@@ -141,17 +145,32 @@ document.addEventListener('DOMContentLoaded', () => {
             navList.appendChild(li);
             
             // Add to footer too
-            const footerLi = document.createElement('li');
-            const footerA = document.createElement('a');
-            footerA.href = '#';
-            footerA.textContent = item.name;
-            footerA.addEventListener('click', (e) => {
-                e.preventDefault();
-                showCategory(folderName);
-            });
-            footerLi.appendChild(footerA);
-            footerCategories.appendChild(footerLi);
+            addToFooter(item);
         });
+
+        // 3. Add Gallery Link
+        const galleryLi = document.createElement('li');
+        const galleryA = document.createElement('a');
+        galleryA.href = '#';
+        galleryA.textContent = 'Gallery';
+        galleryA.addEventListener('click', (e) => {
+            e.preventDefault();
+            showGallery();
+        });
+        galleryLi.appendChild(galleryA);
+        navList.appendChild(galleryLi);
+
+        // Add Gallery to footer
+        const footerGalleryLi = document.createElement('li');
+        const footerGalleryA = document.createElement('a');
+        footerGalleryA.href = '#';
+        footerGalleryA.textContent = 'Gallery';
+        footerGalleryA.addEventListener('click', (e) => {
+            e.preventDefault();
+            showGallery();
+        });
+        footerGalleryLi.appendChild(footerGalleryA);
+        footerCategories.appendChild(footerGalleryLi);
 
         function addToFooter(cat) {
             const footerLi = document.createElement('li');
@@ -172,6 +191,7 @@ document.addEventListener('DOMContentLoaded', () => {
         productsSection.style.display = 'none';
         heroSection.style.display = 'none';
         contactSection.style.display = 'block';
+        gallerySection.style.display = 'none';
         updateBreadcrumb(["Home", "Contact Us"]);
         window.scrollTo({ top: 0, behavior: 'smooth' });
     }
@@ -190,6 +210,7 @@ document.addEventListener('DOMContentLoaded', () => {
         productsSection.style.display = 'block';
         heroSection.style.display = 'flex';
         contactSection.style.display = 'none';
+        gallerySection.style.display = 'none';
         
         // Feature 32 random products on the homepage
         filteredProducts = shuffleArray(allProducts).slice(0, 32); 
@@ -198,11 +219,48 @@ document.addEventListener('DOMContentLoaded', () => {
         renderProducts();
     }
 
+
+
+    function showGallery() {
+        currentPage = 1;
+        productsSection.style.display = 'none';
+        heroSection.style.display = 'none';
+        contactSection.style.display = 'none';
+        gallerySection.style.display = 'block';
+        updateBreadcrumb(["Home", "Gallery"]);
+        renderGallery();
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    function renderGallery() {
+        galleryGrid.innerHTML = '';
+        if (galleryImages.length === 0) {
+            galleryGrid.innerHTML = '<div class="empty-state">Gallery photos coming soon...</div>';
+            return;
+        }
+
+        galleryImages.forEach(imgData => {
+            const item = document.createElement('div');
+            item.className = 'gallery-item';
+            
+            const img = document.createElement('img');
+            // Robustly encode the image path
+            const encodedPath = imgData.image.split('/').map(segment => encodeURIComponent(segment)).join('/');
+            img.src = encodedPath;
+            img.alt = "Gallery Image";
+            img.loading = 'lazy';
+            
+            item.appendChild(img);
+            galleryGrid.appendChild(item);
+        });
+    }
+
     function showCategory(catName) {
         currentPage = 1;
         productsSection.style.display = 'block';
         heroSection.style.display = 'none';
         contactSection.style.display = 'none';
+        gallerySection.style.display = 'none';
         const cat = categories.find(c => c.name === catName);
         if (cat) {
             filteredProducts = cat.subcategories.flatMap(s => s.products);
@@ -223,6 +281,7 @@ document.addEventListener('DOMContentLoaded', () => {
         productsSection.style.display = 'block';
         heroSection.style.display = 'none';
         contactSection.style.display = 'none';
+        gallerySection.style.display = 'none';
         
         const cat = categories.find(c => c.name === catName);
         const sub = cat ? cat.subcategories.find(s => s.name === subName) : null;

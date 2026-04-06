@@ -1603,5 +1603,16 @@
                                              ],
                            "name":  "Food Products and Drinks"
                        }
-                   ]
+                   ],
+    "gallery":  [
+                    {
+                        "image":  "images/Gallery/20 pcs Spiral Hair Curlers Rollers perm Rod for Hair styling [Rs 300].webp"
+                    },
+                    {
+                        "image":  "images/Gallery/African Coral Beads Blouse Jewelry [Rs 5000].avif"
+                    },
+                    {
+                        "image":  "images/Gallery/African Coral Beads Bracelet Jewelry -B [Rs 500].webp"
+                    }
+                ]
 }
