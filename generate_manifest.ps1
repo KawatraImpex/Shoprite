@@ -8,7 +8,7 @@ foreach ($catDir in $categories) {
     if ($catDir.Name -eq "Home Page Products") { continue }
     
     $category = @{
-        name = $catDir.Name
+        name          = $catDir.Name
         subcategories = @()
     }
     
@@ -25,17 +25,18 @@ foreach ($catDir in $categories) {
                 $cleanName = $cleanName.Trim()
                 
                 $products += @{
-                    name = $cleanName
+                    name  = $cleanName
                     image = "images/$($catDir.Name)/$($subDir.Name)/$($file.Name)"
                     price = $price
                 }
             }
             $category.subcategories += @{
-                name = $subDir.Name
+                name     = $subDir.Name
                 products = $products
             }
         }
-    } else {
+    }
+    else {
         $products = @()
         $files = Get-ChildItem -Path $catDir.FullName -File -Filter *.* | Where-Object { $_.Extension -match "jpg|jpeg|png|webp|avif" }
         foreach ($file in $files) {
@@ -46,13 +47,13 @@ foreach ($catDir in $categories) {
             $cleanName = $cleanName.Trim()
             
             $products += @{
-                name = $cleanName
+                name  = $cleanName
                 image = "images/$($catDir.Name)/$($file.Name)"
                 price = $price
             }
         }
         $category.subcategories += @{
-            name = "General"
+            name     = "General"
             products = $products
         }
     }

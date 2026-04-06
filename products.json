@@ -5,7 +5,266 @@
                                                  {
                                                      "name":  "General",
                                                      "products":  [
-
+                                                                      {
+                                                                          "price":  "Rs 300",
+                                                                          "name":  "20 pcs Spiral Hair Curlers Rollers perm Rod for Hair styling",
+                                                                          "image":  "images/Accessories/20 pcs Spiral Hair Curlers Rollers perm Rod for Hair styling [Rs 300].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 5000",
+                                                                          "name":  "African Coral Beads Blouse Jewelry",
+                                                                          "image":  "images/Accessories/African Coral Beads Blouse Jewelry [Rs 5000].avif"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 500",
+                                                                          "name":  "African Coral Beads Bracelet Jewelry -B",
+                                                                          "image":  "images/Accessories/African Coral Beads Bracelet Jewelry -B [Rs 500].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 300",
+                                                                          "name":  "African Coral Beads Bracelet Jewelry -S",
+                                                                          "image":  "images/Accessories/African Coral Beads Bracelet Jewelry -S [Rs 300].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 500",
+                                                                          "name":  "African Coral Beads Bracelet Jewelry White",
+                                                                          "image":  "images/Accessories/African Coral Beads Bracelet Jewelry White [Rs 500].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 1200",
+                                                                          "name":  "African Coral Beads Necklace -B",
+                                                                          "image":  "images/Accessories/African Coral Beads Necklace -B [Rs 1200].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 8000",
+                                                                          "name":  "African Coral Beads Necklace Jewelry - S",
+                                                                          "image":  "images/Accessories/African Coral Beads Necklace Jewelry - S [Rs 8000].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 600",
+                                                                          "name":  "African Coral Beads Necklace Jewelry -S1",
+                                                                          "image":  "images/Accessories/African Coral Beads Necklace Jewelry -S1 [Rs 600].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 1200",
+                                                                          "name":  "African Coral Beads Necklace Jewelry White",
+                                                                          "image":  "images/Accessories/African Coral Beads Necklace Jewelry White [Rs 1200].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 200",
+                                                                          "name":  "African Local Sponge (Kankan Ibile) Organic Exfoliating Bath sponge, Shower Sponge",
+                                                                          "image":  "images/Accessories/African Local Sponge (Kankan Ibile) Organic Exfoliating Bath sponge, Shower Sponge [Rs 200].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Airwoman Brown Eye Pencils (one piece)",
+                                                                          "image":  "images/Accessories/Airwoman Brown Eye Pencils (one piece) [Rs 100].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 400",
+                                                                          "name":  "Anti-static Curved Vented Detangling Wig  Brush Comb (One piece)",
+                                                                          "image":  "images/Accessories/Anti-static Curved Vented Detangling Wig  Brush Comb (One piece) [Rs 400].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Baby Wool Black",
+                                                                          "image":  "images/Accessories/Baby Wool Black [Rs 100].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 300",
+                                                                          "name":  "Bonnet Cotton Net Desgin Cap Hair Bonnet - One Size",
+                                                                          "image":  "images/Accessories/Bonnet Cotton Net Desgin Cap Hair Bonnet - One Size [Rs 300].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 300",
+                                                                          "name":  "Bonnet Satin Hair Bonnet with Tie Band - One Size",
+                                                                          "image":  "images/Accessories/Bonnet Satin Hair Bonnet with Tie Band - One Size [Rs 300].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 200",
+                                                                          "name":  "Costume Ear Rings - One Pair",
+                                                                          "image":  "images/Accessories/Costume Ear Rings - One Pair [Rs 200].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 250",
+                                                                          "name":  "Costume Ear Rings Full Stop England Original - One Piece",
+                                                                          "image":  "images/Accessories/Costume Ear Rings Full Stop England Original - One Piece [Rs 250].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 200",
+                                                                          "name":  "Costume Wig Cap 2 pcs",
+                                                                          "image":  "images/Accessories/Costume Wig Cap 2 pcs [Rs 200].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 50",
+                                                                          "name":  "Cowries for Hair Braids Beads - 4 pcs",
+                                                                          "image":  "images/Accessories/Cowries for Hair Braids Beads - 4 pcs [Rs 50].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 200",
+                                                                          "name":  "Crochet Latch Hook Pin Needle",
+                                                                          "image":  "images/Accessories/Crochet Latch Hook Pin Needle [Rs 200].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 300",
+                                                                          "name":  "DIY Mesh Wig Cap",
+                                                                          "image":  "images/Accessories/DIY Mesh Wig Cap [Rs 300].avif"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 150",
+                                                                          "name":  "Exfoliating Long Afrcian Body Net Scrubbing Bath Sponge soft",
+                                                                          "image":  "images/Accessories/Exfoliating Long Afrcian Body Net Scrubbing Bath Sponge soft [Rs 150].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "G.Nail White Tip African Fancy Assorted Artificial Nail Tips Z(One Sachet)",
+                                                                          "image":  "images/Accessories/G.Nail White Tip African Fancy Assorted Artificial Nail Tips Z(One Sachet) [Rs 100].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Gold Metal Hair Beads 24 Pieces",
+                                                                          "image":  "images/Accessories/Gold Metal Hair Beads 24 Pieces [Rs 100].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 150",
+                                                                          "name":  "Hair Beads premium Mixed Colors up to 50 pieces",
+                                                                          "image":  "images/Accessories/Hair Beads premium Mixed Colors up to 50 pieces [Rs 150].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 200",
+                                                                          "name":  "Hair Beads Premium White Transparent Up to 50 pieces - Baby Size",
+                                                                          "image":  "images/Accessories/Hair Beads Premium White Transparent Up to 50 pieces - Baby Size [Rs 200].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 200",
+                                                                          "name":  "Hair Beads Premium White Transparent Up to 50 pieces",
+                                                                          "image":  "images/Accessories/Hair Beads Premium White Transparent Up to 50 pieces [Rs 200].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 150",
+                                                                          "name":  "Hair Beads Up to 20 Pieces - Different Design",
+                                                                          "image":  "images/Accessories/Hair Beads Up to 20 Pieces - Different Design  [Rs 150].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 150",
+                                                                          "name":  "Hair Beads Up to 20 Pieces",
+                                                                          "image":  "images/Accessories/Hair Beads Up to 20 Pieces [Rs 150].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 150",
+                                                                          "name":  "Hair Beads upto 20 Pieces",
+                                                                          "image":  "images/Accessories/Hair Beads upto 20 Pieces [Rs 150].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 700",
+                                                                          "name":  "Hair Bun Synthetic Afro Kinky Hair Extension",
+                                                                          "image":  "images/Accessories/Hair Bun Synthetic Afro Kinky Hair Extension [Rs 700].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "J\u0026B King Nail filer",
+                                                                          "image":  "images/Accessories/J\u0026B King Nail filer [Rs 100].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  " Rs 200",
+                                                                          "name":  "La Charme Eyelashes - Flare Short Black 100% Human Hair",
+                                                                          "image":  "images/Accessories/La Charme Eyelashes - Flare Short Black 100% Human Hair [ Rs 200].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 300",
+                                                                          "name":  "Lace Wig Cap - Black",
+                                                                          "image":  "images/Accessories/Lace Wig Cap - Black [Rs 300].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 250",
+                                                                          "name":  "Ladies African Afro Comb",
+                                                                          "image":  "images/Accessories/Ladies African Afro Comb [Rs 250].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 300",
+                                                                          "name":  "Ladies Night cap Big Size Black",
+                                                                          "image":  "images/Accessories/Ladies Night cap Big Size Black [Rs 300].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Mens African Afro Comb",
+                                                                          "image":  "images/Accessories/Mens African Afro Comb [Rs 100].avif"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Nail Buffer Purple Acrylic Block Buffer",
+                                                                          "image":  "images/Accessories/Nail Buffer Purple Acrylic Block Buffer [Rs 100].avif"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Nails Ready to Fix Acrylic Nails for 12 Fingers - One sachet",
+                                                                          "image":  "images/Accessories/Nails Ready to Fix Acrylic Nails for 12 Fingers - One sachet [Rs 100].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 300",
+                                                                          "name":  "Natural hair Bun For Babies - Black",
+                                                                          "image":  "images/Accessories/Natural hair Bun For Babies - Black [Rs 300].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 300",
+                                                                          "name":  "New Fashion Women Satin Night Cap Sleep Hair Bonnet - Big size",
+                                                                          "image":  "images/Accessories/New Fashion Women Satin Night Cap Sleep Hair Bonnet - Big size [Rs 300].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 200",
+                                                                          "name":  "New Fashion Women Satin Night Cap Sleep Hair Bonnet - Mixed Colors",
+                                                                          "image":  "images/Accessories/New Fashion Women Satin Night Cap Sleep Hair Bonnet - Mixed Colors [Rs 200].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Oke Bond N-5 Super Glue - Nail Glue (One Piece)",
+                                                                          "image":  "images/Accessories/Oke Bond N-5 Super Glue - Nail Glue (One Piece) [Rs 100].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Parting Comb for Braiding Wooden Afro pick Comb",
+                                                                          "image":  "images/Accessories/Parting Comb for Braiding Wooden Afro pick Comb [Rs 100].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 200",
+                                                                          "name":  "Rat Tail Comb for Hair Stylist, Parting Combs for Braiding hair , Rattail Comb with Metal Stainless steel pintail for sectioning, Teasing and Styling",
+                                                                          "image":  "images/Accessories/Rat Tail Comb for Hair Stylist, Parting Combs for Braiding hair , Rattail Comb with Metal Stainless steel pintail for sectioning, Teasing and Styling [Rs 200].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 200",
+                                                                          "name":  "Red Cherry Eyelashes Black 100% Human Hair",
+                                                                          "image":  "images/Accessories/Red Cherry Eyelashes Black 100% Human Hair [Rs 200].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 150",
+                                                                          "name":  "Silver Metal Hair Beads 48 pieces",
+                                                                          "image":  "images/Accessories/Silver Metal Hair Beads 48 pieces [Rs 150].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 300",
+                                                                          "name":  "Small Pin Crochet Weaving Latch Hook Dreadlock Crochet sew wig hair Needle for Micro Braids Tools Home DIY Knitting",
+                                                                          "image":  "images/Accessories/Small Pin Crochet Weaving Latch Hook Dreadlock Crochet sew wig hair Needle for Micro Braids Tools Home DIY Knitting [Rs 300].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 500",
+                                                                          "name":  "Used Once - Like New Ghana Must Go Bags - Big \u0026 Large Sizes",
+                                                                          "image":  "images/Accessories/Used Once - Like New Ghana Must Go Bags - Big \u0026 Large Sizes [Rs 500].avif"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 150",
+                                                                          "name":  "WHOT Play Cards Game",
+                                                                          "image":  "images/Accessories/WHOT Play Cards Game [Rs 150].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 150",
+                                                                          "name":  "Wig Cap - 1 piece",
+                                                                          "image":  "images/Accessories/Wig Cap - 1 piece [Rs 150].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 200",
+                                                                          "name":  "Wig Cap",
+                                                                          "image":  "images/Accessories/Wig Cap [Rs 200].webp"
+                                                                      }
                                                                   ]
                                                  }
                                              ],
@@ -631,7 +890,56 @@
                                                  {
                                                      "name":  "Makeup",
                                                      "products":  [
-
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Airwoman Black Eye Pencils (One piece)",
+                                                                          "image":  "images/Beauty and personal Care/Makeup/Airwoman Black Eye Pencils (One piece) [Rs 100].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Airwoman Brown Eye Pencils (One Piece)",
+                                                                          "image":  "images/Beauty and personal Care/Makeup/Airwoman Brown Eye Pencils (One Piece) [Rs 100].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 500",
+                                                                          "name":  "Classic Foundation Color 507 (light)",
+                                                                          "image":  "images/Beauty and personal Care/Makeup/Classic Foundation Color 507 (light) [Rs 500].avif"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 500",
+                                                                          "name":  "Classic Foundation Color 607 (Medium)",
+                                                                          "image":  "images/Beauty and personal Care/Makeup/Classic Foundation Color 607 (Medium) [Rs 500].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 500",
+                                                                          "name":  "Classic Foundation Color 708 (Dark)",
+                                                                          "image":  "images/Beauty and personal Care/Makeup/Classic Foundation Color 708 (Dark) [Rs 500].avif"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 500",
+                                                                          "name":  "Classic Makeup Pressed Powder Medium",
+                                                                          "image":  "images/Beauty and personal Care/Makeup/Classic Makeup Pressed Powder Medium [Rs 500].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 500",
+                                                                          "name":  "Classic Makeup Pressed Powder USA - Dark",
+                                                                          "image":  "images/Beauty and personal Care/Makeup/Classic Makeup Pressed Powder USA - Dark [Rs 500].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 500",
+                                                                          "name":  "Classic Makeup Pressed Powder USA - Light",
+                                                                          "image":  "images/Beauty and personal Care/Makeup/Classic Makeup Pressed Powder USA - Light [Rs 500].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Nail Ready to fix acrylic Nails For 12 Fingers - One Sachet",
+                                                                          "image":  "images/Beauty and personal Care/Makeup/Nail Ready to fix acrylic Nails For 12 Fingers - One Sachet [Rs 100].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 150",
+                                                                          "name":  "Romantic May Squeezing N shine Lip Gloss and Balm One Piece",
+                                                                          "image":  "images/Beauty and personal Care/Makeup/Romantic May Squeezing N shine Lip Gloss and Balm One Piece [Rs 150].webp"
+                                                                      }
                                                                   ]
                                                  }
                                              ],
@@ -944,25 +1252,346 @@
                                                  {
                                                      "name":  "Beverages",
                                                      "products":  [
-
+                                                                      {
+                                                                          "price":  "Rs 225",
+                                                                          "name":  "Malta Guinness 330ml",
+                                                                          "image":  "images/Food Products and Drinks/Beverages/Malta Guinness 330ml [Rs 225].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 400",
+                                                                          "name":  "Nestle Golden Morn Nutrition  and tasty Family cereal 300g",
+                                                                          "image":  "images/Food Products and Drinks/Beverages/Nestle Golden Morn Nutrition  and tasty Family cereal 300g [Rs 400].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 200",
+                                                                          "name":  "Peak Full Cream Evaporated Milk 150g 5.4 oz",
+                                                                          "image":  "images/Food Products and Drinks/Beverages/Peak Full Cream Evaporated Milk 150g 5.4 oz [Rs 200].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 500",
+                                                                          "name":  "Peak Instant Full Cream Milk Powder Sachet 360g",
+                                                                          "image":  "images/Food Products and Drinks/Beverages/Peak Instant Full Cream Milk Powder Sachet 360g [Rs 500].avif"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Vinut Red Grapes Fruit Juices with pulp 330ml",
+                                                                          "image":  "images/Food Products and Drinks/Beverages/Vinut Red Grapes Fruit Juices with pulp 330ml [Rs 100].avif"
+                                                                      }
                                                                   ]
                                                  },
                                                  {
                                                      "name":  "Drinks",
                                                      "products":  [
-
+                                                                      {
+                                                                          "price":  "Rs 225",
+                                                                          "name":  "Malta Guinesse 330ml",
+                                                                          "image":  "images/Food Products and Drinks/Drinks/Malta Guinesse 330ml [Rs 225].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Vinut Soursop Juice 330ml",
+                                                                          "image":  "images/Food Products and Drinks/Drinks/Vinut Soursop Juice 330ml [Rs 100].webp"
+                                                                      }
                                                                   ]
                                                  },
                                                  {
                                                      "name":  "Snacks",
                                                      "products":  [
-
+                                                                      {
+                                                                          "price":  "Rs 150",
+                                                                          "name":  "Chin Chin - Crunchy Milky Soft - 290g",
+                                                                          "image":  "images/Food Products and Drinks/Snacks/Chin Chin - Crunchy Milky Soft - 290g [Rs 150].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 200",
+                                                                          "name":  "Heritage Home Made Milky Coated Peanuts In 320g Bottle",
+                                                                          "image":  "images/Food Products and Drinks/Snacks/Heritage Home Made Milky Coated Peanuts In 320g Bottle [Rs 200].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 250",
+                                                                          "name":  "Kilishi Kusha Shagalinku kilishi (70g) Tasty Beef Jerky - Suya",
+                                                                          "image":  "images/Food Products and Drinks/Snacks/Kilishi Kusha Shagalinku kilishi (70g) Tasty Beef Jerky - Suya [Rs 250].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 200",
+                                                                          "name":  "Roasted Peanuts Groundnut Freshly Packed",
+                                                                          "image":  "images/Food Products and Drinks/Snacks/Roasted Peanuts Groundnut Freshly Packed [Rs 200].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 50",
+                                                                          "name":  "Tong Garden Coconut Coated Peanuts 50g and 60g",
+                                                                          "image":  "images/Food Products and Drinks/Snacks/Tong Garden Coconut Coated Peanuts 50g and 60g [Rs 50].webp"
+                                                                      }
                                                                   ]
                                                  },
                                                  {
                                                      "name":  "Spices",
                                                      "products":  [
-
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "7 Double Cubes Knorr Chicken cubes 50g",
+                                                                          "image":  "images/Food Products and Drinks/Spices/7 Double Cubes Knorr Chicken cubes 50g [Rs 100].avif"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "7 Double Cubes Knorr Cubes 50g",
+                                                                          "image":  "images/Food Products and Drinks/Spices/7 Double Cubes Knorr Cubes 50g [Rs 100].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Achi Seed - Akpa Soup Thickener Dried 30g",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Achi Seed - Akpa Soup Thickener Dried 30g [Rs 100].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 200",
+                                                                          "name":  "Aguleri Ede Uri Cocoyam Soup Thickener 200g",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Aguleri Ede Uri Cocoyam Soup Thickener 200g [Rs 200].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Akpi-Djansang-Njanan-Munguella-wama-okhuen-bofeko 30g",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Akpi-Djansang-Njanan-Munguella-wama-okhuen-bofeko 30g [Rs 100].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 40",
+                                                                          "name":  "Banga Spice Deep Favour Spices Powder",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Banga Spice Deep Favour Spices Powder [Rs 40].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 50",
+                                                                          "name":  "Benny Instant Chicken Stock Powder 17g",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Benny Instant Chicken Stock Powder 17g [Rs 50].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Bitter Kola 35g",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Bitter Kola 35g [Rs 100].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Black Pepper-Ashanti pepper - Uziza Seed - Ata Iyere 30g",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Black Pepper-Ashanti pepper - Uziza Seed - Ata Iyere 30g [Rs 100].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Country Onion ,Pucks, Olum, Bobimbi, Roundelles 25g",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Country Onion ,Pucks, Olum, Bobimbi, Roundelles 25g [Rs 100].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Dried Alligator Pepper (one pod)",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Dried Alligator Pepper (one pod) [Rs 100].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Dried Cameroon pepper",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Dried Cameroon pepper [Rs 100].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 1250",
+                                                                          "name":  "Dried Organic tiger Nuts , Aya ( chufa nuts ) 1kg",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Dried Organic tiger Nuts , Aya ( chufa nuts ) 1kg [Rs 1250].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Dried Organic Tiger Nuts, Aya (Chufa Nuts) 70g",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Dried Organic Tiger Nuts, Aya (Chufa Nuts) 70g [Rs 100].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 50",
+                                                                          "name":  "Dried Red Chilli Pepper",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Dried Red Chilli Pepper [Rs 50].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Dried Ugba - Ukpaka 25g",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Dried Ugba - Ukpaka 25g [Rs 100].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Dried Utazi otazi - Arokeke Giloy - Bush Buck leaves (latifolium)",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Dried Utazi otazi - Arokeke Giloy - Bush Buck leaves (latifolium) [Rs 100].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Ducros Curry Powder 25g",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Ducros Curry Powder 25g [Rs 100].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Ducros Dried Thyme Powder 25g",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Ducros Dried Thyme Powder 25g [Rs 100].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Edible Potash - Kaun - Akanwa or Kanwa 25g",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Edible Potash - Kaun - Akanwa or Kanwa 25g [Rs 100].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Egusi (Melon Seed) 75g",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Egusi (Melon Seed) 75g [Rs 100].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 50",
+                                                                          "name":  "Egusi Onga Spices Powder for Egusi Soup 8g",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Egusi Onga Spices Powder for Egusi Soup 8g [Rs 50].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Ehuru-Eru-Ariwo-Calabash Nutmeg - Jamaican Nutmeg - African Nutmeg Unpeeled 25g",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Ehuru-Eru-Ariwo-Calabash Nutmeg - Jamaican Nutmeg - African Nutmeg Unpeeled 25g [Rs 100].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Fermented Dried African Locust beans - Iru, Dawa, Ogiri 25g (sumbla, netetou, kainda)",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Fermented Dried African Locust beans - Iru, Dawa, Ogiri 25g (sumbla, netetou, kainda) [Rs 100].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Grounded Mixed pepper soup , peppersoup Spices Powder 25g",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Grounded Mixed pepper soup , peppersoup Spices Powder 25g [Rs 100].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 50",
+                                                                          "name":  "Kitchen Glory Beef flavour seasoning Powder 10g",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Kitchen Glory Beef flavour seasoning Powder 10g [Rs 50].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 50",
+                                                                          "name":  "Kitchen Glory Chicken Flavour Seasoning Powder 10g",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Kitchen Glory Chicken Flavour Seasoning Powder 10g [Rs 50].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 50",
+                                                                          "name":  "Kitchen Glory Fish Flavour Seasoning Powder 10g",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Kitchen Glory Fish Flavour Seasoning Powder 10g [Rs 50].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 550",
+                                                                          "name":  "Knorr Chicken Cubes 45 double cubes",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Knorr Chicken Cubes 45 double cubes [Rs 550].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 550",
+                                                                          "name":  "Knorr Cubes 45 double cubes",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Knorr Cubes 45 double cubes [Rs 550].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 50",
+                                                                          "name":  "Larsor Chicken seasoning",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Larsor Chicken seasoning [Rs 50].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 50",
+                                                                          "name":  "Larsor peppersoup Seasoning 10g",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Larsor peppersoup Seasoning 10g [Rs 50].avif"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 550",
+                                                                          "name":  "Maggi Chicken Flavour Cubes (100 Cubes)",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Maggi Chicken Flavour Cubes (100 Cubes) [Rs 550].avif"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Maggi chicken flavour seasoning 14 cubes",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Maggi chicken flavour seasoning 14 cubes [Rs 100].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Maggi Star Seasoning 14 cubes 50g",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Maggi Star Seasoning 14 cubes 50g [Rs 100].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 550",
+                                                                          "name":  "Maggi Star Seasoning Cubes - 100 cubes",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Maggi Star Seasoning Cubes - 100 cubes [Rs 550].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 50",
+                                                                          "name":  "Napa Goat Meat Flavour Assaisonnement seasoning 10g",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Napa Goat Meat Flavour Assaisonnement seasoning 10g [Rs 50].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Negro Pepper- Eeru -Alamo-Uda 20g",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Negro Pepper- Eeru -Alamo-Uda 20g [Rs 100].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Ogbono (Irvingia Gabonensis ) 45g",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Ogbono (Irvingia Gabonensis ) 45g [Rs 100].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Ogiri Okpei (Fermented castor Seed)",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Ogiri Okpei (Fermented castor Seed) [Rs 100].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 50",
+                                                                          "name":  "Onga Stew \u0026 soup seasoning Sachet 8g",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Onga Stew \u0026 soup seasoning Sachet 8g [Rs 50].avif"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Orima Seeds, Ataiko Seed Purelyagro Oriomio Banga Spice 25g",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Orima Seeds, Ataiko Seed Purelyagro Oriomio Banga Spice 25g [Rs 100].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 200",
+                                                                          "name":  "Prekese (Soup perfume) Osakirisa Aidan fruit , Uhio, Uyayak",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Prekese (Soup perfume) Osakirisa Aidan fruit , Uhio, Uyayak [Rs 200].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Royco Flavour Seasoning Cube 14 Cubes",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Royco Flavour Seasoning Cube 14 Cubes [Rs 100].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 550",
+                                                                          "name":  "Royco Flavour Seasoning Cubes 100 cubes",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Royco Flavour Seasoning Cubes 100 cubes [Rs 550].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Scent leaves , Dried Nchuanwu-Efirin African basil ( basilic sauvage ; menthe gabonaise)",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Scent leaves , Dried Nchuanwu-Efirin African basil ( basilic sauvage ; menthe gabonaise) [Rs 100].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 50",
+                                                                          "name":  "Spicity Fried Rice Spices Seasoning Powder 10g",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Spicity Fried Rice Spices Seasoning Powder 10g [Rs 50].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 50",
+                                                                          "name":  "SpiCity Seasoning Powder - stew \u0026 Joll of 10g",
+                                                                          "image":  "images/Food Products and Drinks/Spices/SpiCity Seasoning Powder - stew \u0026 Joll of 10g [Rs 50].jpg"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Suya Spices Authentic Home Made Suya Powder 30g",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Suya Spices Authentic Home Made Suya Powder 30g [Rs 100].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 50",
+                                                                          "name":  "Tiger Curry Powder Sachet 100% Natural 10g",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Tiger Curry Powder Sachet 100% Natural 10g [Rs 50].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 50",
+                                                                          "name":  "Tiger Nutmeg Powder 100% From Nutmeg Seeds",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Tiger Nutmeg Powder 100% From Nutmeg Seeds [Rs 50].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 100",
+                                                                          "name":  "Umilo-Emilo-Omilo Cocoplum Seed, Paradise Plum Seed 25g",
+                                                                          "image":  "images/Food Products and Drinks/Spices/Umilo-Emilo-Omilo Cocoplum Seed, Paradise Plum Seed 25g [Rs 100].webp"
+                                                                      },
+                                                                      {
+                                                                          "price":  "Rs 40",
+                                                                          "name":  "White Soup Spices powder",
+                                                                          "image":  "images/Food Products and Drinks/Spices/White Soup Spices powder [Rs 40].jpg"
+                                                                      }
                                                                   ]
                                                  },
                                                  {

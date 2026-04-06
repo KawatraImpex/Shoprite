@@ -275,18 +275,15 @@ document.addEventListener('DOMContentLoaded', () => {
             const title = document.createElement('div');
             title.className = 'product-title';
             
-            // Extract price only for African food items
+            // Extract price from filename if present, otherwise use manifest price
             let displayPrice = product.price || "Price on Inquiry";
             let displayName = originalName;
 
-            // Only use filename-parsing for African Food Items
-            if (currentPath.toLowerCase().includes("african food items")) {
-                const priceMatch = originalName.match(/\[(.*?)\]/);
-                if (priceMatch) {
-                    const priceVal = priceMatch[1];
-                    displayPrice = /^\d+$/.test(priceVal) ? `₹${priceVal}` : priceVal;
-                    displayName = originalName.replace(/\[.*?\]/, '').trim();
-                }
+            const priceMatch = originalName.match(/\[(.*?)\]/);
+            if (priceMatch) {
+                const priceVal = priceMatch[1];
+                displayPrice = /^\d+$/.test(priceVal) ? `₹${priceVal}` : priceVal;
+                displayName = originalName.replace(/\[.*?\]/, '').trim();
             }
             
             title.textContent = displayName;
