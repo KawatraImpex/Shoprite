@@ -311,7 +311,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             const addToCartBtn = document.createElement('button');
             addToCartBtn.className = 'add-to-cart-btn';
-            addToCartBtn.innerHTML = '<i class="fas fa-plus"></i>';
+            addToCartBtn.innerHTML = '+';
             addToCartBtn.title = 'Add to Cart';
             addToCartBtn.addEventListener('click', (e) => {
                 e.stopPropagation();
@@ -327,7 +327,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const message = encodeURIComponent(`wanted to order this product: ${displayName} (Price: ${displayPrice})`);
             waBtn.href = `https://wa.me/918700304308?text=${message}`;
             waBtn.target = '_blank';
-            waBtn.innerHTML = '<i class="fab fa-whatsapp"></i> Order';
+            waBtn.innerHTML = 'Order';
             
             actions.appendChild(waBtn);
             actions.appendChild(addToCartBtn);

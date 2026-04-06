@@ -741,8 +741,8 @@ body {
 }
 
 .add-to-cart-btn {
-    background-color: var(--primary-color);
-    color: #ffffff !important; /* Force white color */
+    background-color: #febd69; /* Amazon Yellow */
+    color: #0f1111 !important; /* Dark contrast */
     border: none;
     padding: 10px 15px;
     border-radius: 4px;
@@ -751,11 +751,14 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    min-width: 44px; /* Ensure a square-ish feel */
+    min-width: 44px; /* Maintain square shape */
+    font-size: 1.5rem; /* Larger '+' symbol */
+    font-weight: 800; /* Bold symbol */
+    line-height: 1;
 }
 
 .add-to-cart-btn:hover {
-    background-color: var(--primary-light);
+    background-color: #f08804; /* Amazon Orange */
 }
 
 .add-to-cart-btn i {
