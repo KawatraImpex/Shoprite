@@ -742,12 +742,16 @@ body {
 
 .add-to-cart-btn {
     background-color: var(--primary-color);
-    color: white;
+    color: #ffffff !important; /* Force white color */
     border: none;
     padding: 10px 15px;
     border-radius: 4px;
     cursor: pointer;
     transition: var(--transition);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 44px; /* Ensure a square-ish feel */
 }
 
 .add-to-cart-btn:hover {
@@ -755,7 +759,9 @@ body {
 }
 
 .add-to-cart-btn i {
-    font-size: 1.1rem;
+    font-size: 1.2rem;
+    font-weight: 900;
+    pointer-events: none; /* Avoid clicking on icon directly */
 }
 
 .whatsapp-btn {
