@@ -18,6 +18,16 @@ document.addEventListener('DOMContentLoaded', () => {
     let currentPage = 1;
     const itemsPerPage = 16;
     let categories = [];
+    let cart = [];
+
+    // Cart Elements
+    const cartTrigger = document.getElementById('cart-trigger');
+    const cartModal = document.getElementById('cart-modal');
+    const closeCart = document.getElementById('close-cart');
+    const cartItemsContainer = document.getElementById('cart-items');
+    const cartBadge = document.getElementById('cart-badge');
+    const cartCountLabel = document.getElementById('cart-count');
+    const checkoutBtn = document.getElementById('checkout-btn');
 
     // Fetch correctly categorized manifest
     fetch('products.json')
@@ -292,17 +302,36 @@ document.addEventListener('DOMContentLoaded', () => {
             priceDiv.className = 'product-price';
             priceDiv.textContent = displayPrice;
             
+            const actions = document.createElement('div');
+            actions.className = 'product-actions';
+
+            const addToCartBtn = document.createElement('button');
+            addToCartBtn.className = 'add-to-cart-btn';
+            addToCartBtn.innerHTML = '<i class="fas fa-cart-plus"></i>';
+            addToCartBtn.title = 'Add to Cart';
+            addToCartBtn.addEventListener('click', (e) => {
+                e.stopPropagation();
+                addToCart({
+                    name: displayName,
+                    price: displayPrice,
+                    image: encodedPath
+                });
+            });
+
             const waBtn = document.createElement('a');
             waBtn.className = 'whatsapp-btn';
             const message = encodeURIComponent(`wanted to order this product: ${displayName} (Price: ${displayPrice})`);
             waBtn.href = `https://wa.me/918700304308?text=${message}`;
             waBtn.target = '_blank';
-            waBtn.innerHTML = '<i class="fab fa-whatsapp"></i> Order on WhatsApp';
+            waBtn.innerHTML = '<i class="fab fa-whatsapp"></i> Order';
+            
+            actions.appendChild(waBtn);
+            actions.appendChild(addToCartBtn);
             
             card.appendChild(img);
             card.appendChild(title);
             card.appendChild(priceDiv);
-            card.appendChild(waBtn);
+            card.appendChild(actions);
             
             productGrid.appendChild(card);
         });
@@ -360,5 +389,95 @@ document.addEventListener('DOMContentLoaded', () => {
     homeLink.addEventListener('click', (e) => {
         e.preventDefault();
         showHomePage();
+    });
+
+    // Cart Functions
+    function addToCart(product) {
+        if (cart.length >= 25) {
+            alert('Cart is full! Maximum 25 products allowed.');
+            return;
+        }
+        cart.push(product);
+        updateCartUI();
+        
+        // Visual feedback
+        const badge = document.getElementById('cart-badge');
+        badge.style.transform = 'scale(1.5)';
+        setTimeout(() => badge.style.transform = 'scale(1)', 200);
+    }
+
+    function removeFromCart(index) {
+        cart.splice(index, 1);
+        updateCartUI();
+    }
+
+    function updateCartUI() {
+        // Update badges
+        cartBadge.textContent = cart.length;
+        cartCountLabel.textContent = cart.length;
+        
+        // Render items
+        cartItemsContainer.innerHTML = '';
+        if (cart.length === 0) {
+            cartItemsContainer.innerHTML = '<p class="empty-cart-msg">Your cart is empty.</p>';
+            checkoutBtn.disabled = true;
+        } else {
+            cart.forEach((item, index) => {
+                const div = document.createElement('div');
+                div.className = 'cart-item';
+                div.innerHTML = `
+                    <img src="${item.image}" class="cart-item-img">
+                    <div class="cart-item-info">
+                        <div class="cart-item-name">${item.name}</div>
+                        <div class="cart-item-price">${item.price}</div>
+                    </div>
+                    <span class="remove-item" data-index="${index}">&times; Remove</span>
+                `;
+                cartItemsContainer.appendChild(div);
+            });
+            
+            // Add remove listeners
+            document.querySelectorAll('.remove-item').forEach(btn => {
+                btn.addEventListener('click', (e) => {
+                    const index = parseInt(e.target.dataset.index);
+                    removeFromCart(index);
+                });
+            });
+            
+            checkoutBtn.disabled = false;
+        }
+    }
+
+    function toggleCart(open) {
+        if (open) {
+            cartModal.classList.add('active');
+            document.body.style.overflow = 'hidden';
+        } else {
+            cartModal.classList.remove('active');
+            document.body.style.overflow = 'auto';
+        }
+    }
+
+    function handleCheckout() {
+        if (cart.length === 0) return;
+        
+        let message = "Hello ShopRite! I would like to order the following products:\n\n";
+        cart.forEach((item, index) => {
+            message += `${index + 1}. ${item.name} (${item.price})\n`;
+        });
+        message += `\nTotal Items: ${cart.length}`;
+        
+        const waLink = `https://wa.me/918700304308?text=${encodeURIComponent(message)}`;
+        window.open(waLink, '_blank');
+    }
+
+    // Cart Event Listeners
+    cartTrigger.addEventListener('click', () => toggleCart(true));
+    closeCart.addEventListener('click', () => toggleCart(false));
+    checkoutBtn.addEventListener('click', handleCheckout);
+    
+    // Close modal on outside click
+    window.addEventListener('click', (e) => {
+        if (e.target === cartModal) toggleCart(false);
     });
 });
