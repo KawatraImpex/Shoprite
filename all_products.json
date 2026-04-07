@@ -1,570 +1,1218 @@
 ﻿[
     {
-        "Path":  "images/Beauty and personal Care/Body Care/African Local Sponge (kankan Ibile) Organic Exfoliating bath Spnge, Shower sponge.webp",
+        "Path":  "images/Accessories/20 pcs Spiral Hair Curlers Rollers perm Rod for Hair styling [Rs 300].webp",
+        "BaseName":  "20 pcs Spiral Hair Curlers Rollers perm Rod for Hair styling"
+    },
+    {
+        "Path":  "images/Accessories/African Coral Beads Blouse Jewelry [Rs 5000].avif",
+        "BaseName":  "African Coral Beads Blouse Jewelry"
+    },
+    {
+        "Path":  "images/Accessories/African Coral Beads Bracelet Jewelry -B [Rs 500].webp",
+        "BaseName":  "African Coral Beads Bracelet Jewelry -B"
+    },
+    {
+        "Path":  "images/Accessories/African Coral Beads Bracelet Jewelry -S [Rs 300].webp",
+        "BaseName":  "African Coral Beads Bracelet Jewelry -S"
+    },
+    {
+        "Path":  "images/Accessories/African Coral Beads Bracelet Jewelry White [Rs 500].webp",
+        "BaseName":  "African Coral Beads Bracelet Jewelry White"
+    },
+    {
+        "Path":  "images/Accessories/African Coral Beads Necklace -B [Rs 1200].webp",
+        "BaseName":  "African Coral Beads Necklace -B"
+    },
+    {
+        "Path":  "images/Accessories/African Coral Beads Necklace Jewelry - S [Rs 8000].webp",
+        "BaseName":  "African Coral Beads Necklace Jewelry - S"
+    },
+    {
+        "Path":  "images/Accessories/African Coral Beads Necklace Jewelry -S1 [Rs 600].webp",
+        "BaseName":  "African Coral Beads Necklace Jewelry -S1"
+    },
+    {
+        "Path":  "images/Accessories/African Coral Beads Necklace Jewelry White [Rs 1200].webp",
+        "BaseName":  "African Coral Beads Necklace Jewelry White"
+    },
+    {
+        "Path":  "images/Accessories/African Local Sponge (Kankan Ibile) Organic Exfoliating Bath sponge, Shower Sponge [Rs 200].webp",
+        "BaseName":  "African Local Sponge (Kankan Ibile) Organic Exfoliating Bath sponge, Shower Sponge"
+    },
+    {
+        "Path":  "images/Accessories/Airwoman Brown Eye Pencils (one piece) [Rs 100].webp",
+        "BaseName":  "Airwoman Brown Eye Pencils (one piece)"
+    },
+    {
+        "Path":  "images/Accessories/Anti-static Curved Vented Detangling Wig  Brush Comb (One piece) [Rs 400].jpg",
+        "BaseName":  "Anti-static Curved Vented Detangling Wig  Brush Comb (One piece)"
+    },
+    {
+        "Path":  "images/Accessories/Baby Wool Black [Rs 100].webp",
+        "BaseName":  "Baby Wool Black"
+    },
+    {
+        "Path":  "images/Accessories/Bonnet Cotton Net Desgin Cap Hair Bonnet - One Size [Rs 300].webp",
+        "BaseName":  "Bonnet Cotton Net Desgin Cap Hair Bonnet - One Size"
+    },
+    {
+        "Path":  "images/Accessories/Bonnet Satin Hair Bonnet with Tie Band - One Size [Rs 300].webp",
+        "BaseName":  "Bonnet Satin Hair Bonnet with Tie Band - One Size"
+    },
+    {
+        "Path":  "images/Accessories/Costume Ear Rings - One Pair [Rs 200].webp",
+        "BaseName":  "Costume Ear Rings - One Pair"
+    },
+    {
+        "Path":  "images/Accessories/Costume Ear Rings Full Stop England Original - One Piece [Rs 250].webp",
+        "BaseName":  "Costume Ear Rings Full Stop England Original - One Piece"
+    },
+    {
+        "Path":  "images/Accessories/Costume Wig Cap 2 pcs [Rs 200].webp",
+        "BaseName":  "Costume Wig Cap 2 pcs"
+    },
+    {
+        "Path":  "images/Accessories/Cowries for Hair Braids Beads - 4 pcs [Rs 50].webp",
+        "BaseName":  "Cowries for Hair Braids Beads - 4 pcs"
+    },
+    {
+        "Path":  "images/Accessories/Crochet Latch Hook Pin Needle [Rs 200].jpg",
+        "BaseName":  "Crochet Latch Hook Pin Needle"
+    },
+    {
+        "Path":  "images/Accessories/DIY Mesh Wig Cap [Rs 300].avif",
+        "BaseName":  "DIY Mesh Wig Cap"
+    },
+    {
+        "Path":  "images/Accessories/Exfoliating Long Afrcian Body Net Scrubbing Bath Sponge soft [Rs 150].jpg",
+        "BaseName":  "Exfoliating Long Afrcian Body Net Scrubbing Bath Sponge soft"
+    },
+    {
+        "Path":  "images/Accessories/G.Nail White Tip African Fancy Assorted Artificial Nail Tips Z(One Sachet) [Rs 100].jpg",
+        "BaseName":  "G.Nail White Tip African Fancy Assorted Artificial Nail Tips Z(One Sachet)"
+    },
+    {
+        "Path":  "images/Accessories/Gold Metal Hair Beads 24 Pieces [Rs 100].webp",
+        "BaseName":  "Gold Metal Hair Beads 24 Pieces"
+    },
+    {
+        "Path":  "images/Accessories/Hair Beads premium Mixed Colors up to 50 pieces [Rs 150].webp",
+        "BaseName":  "Hair Beads premium Mixed Colors up to 50 pieces"
+    },
+    {
+        "Path":  "images/Accessories/Hair Beads Premium White Transparent Up to 50 pieces - Baby Size [Rs 200].webp",
+        "BaseName":  "Hair Beads Premium White Transparent Up to 50 pieces - Baby Size"
+    },
+    {
+        "Path":  "images/Accessories/Hair Beads Premium White Transparent Up to 50 pieces [Rs 200].webp",
+        "BaseName":  "Hair Beads Premium White Transparent Up to 50 pieces"
+    },
+    {
+        "Path":  "images/Accessories/Hair Beads Up to 20 Pieces - Different Design  [Rs 150].webp",
+        "BaseName":  "Hair Beads Up to 20 Pieces - Different Design"
+    },
+    {
+        "Path":  "images/Accessories/Hair Beads Up to 20 Pieces [Rs 150].webp",
+        "BaseName":  "Hair Beads Up to 20 Pieces"
+    },
+    {
+        "Path":  "images/Accessories/Hair Beads upto 20 Pieces [Rs 150].webp",
+        "BaseName":  "Hair Beads upto 20 Pieces"
+    },
+    {
+        "Path":  "images/Accessories/Hair Bun Synthetic Afro Kinky Hair Extension [Rs 700].webp",
+        "BaseName":  "Hair Bun Synthetic Afro Kinky Hair Extension"
+    },
+    {
+        "Path":  "images/Accessories/J\u0026B King Nail filer [Rs 100].webp",
+        "BaseName":  "J\u0026B King Nail filer"
+    },
+    {
+        "Path":  "images/Accessories/La Charme Eyelashes - Flare Short Black 100% Human Hair [ Rs 200].jpg",
+        "BaseName":  "La Charme Eyelashes - Flare Short Black 100% Human Hair"
+    },
+    {
+        "Path":  "images/Accessories/Lace Wig Cap - Black [Rs 300].jpg",
+        "BaseName":  "Lace Wig Cap - Black"
+    },
+    {
+        "Path":  "images/Accessories/Ladies African Afro Comb [Rs 250].jpg",
+        "BaseName":  "Ladies African Afro Comb"
+    },
+    {
+        "Path":  "images/Accessories/Ladies Night cap Big Size Black [Rs 300].webp",
+        "BaseName":  "Ladies Night cap Big Size Black"
+    },
+    {
+        "Path":  "images/Accessories/Mens African Afro Comb [Rs 100].avif",
+        "BaseName":  "Mens African Afro Comb"
+    },
+    {
+        "Path":  "images/Accessories/Nail Buffer Purple Acrylic Block Buffer [Rs 100].avif",
+        "BaseName":  "Nail Buffer Purple Acrylic Block Buffer"
+    },
+    {
+        "Path":  "images/Accessories/Nails Ready to Fix Acrylic Nails for 12 Fingers - One sachet [Rs 100].webp",
+        "BaseName":  "Nails Ready to Fix Acrylic Nails for 12 Fingers - One sachet"
+    },
+    {
+        "Path":  "images/Accessories/Natural hair Bun For Babies - Black [Rs 300].jpg",
+        "BaseName":  "Natural hair Bun For Babies - Black"
+    },
+    {
+        "Path":  "images/Accessories/New Fashion Women Satin Night Cap Sleep Hair Bonnet - Big size [Rs 300].jpg",
+        "BaseName":  "New Fashion Women Satin Night Cap Sleep Hair Bonnet - Big size"
+    },
+    {
+        "Path":  "images/Accessories/New Fashion Women Satin Night Cap Sleep Hair Bonnet - Mixed Colors [Rs 200].webp",
+        "BaseName":  "New Fashion Women Satin Night Cap Sleep Hair Bonnet - Mixed Colors"
+    },
+    {
+        "Path":  "images/Accessories/Oke Bond N-5 Super Glue - Nail Glue (One Piece) [Rs 100].jpg",
+        "BaseName":  "Oke Bond N-5 Super Glue - Nail Glue (One Piece)"
+    },
+    {
+        "Path":  "images/Accessories/Parting Comb for Braiding Wooden Afro pick Comb [Rs 100].webp",
+        "BaseName":  "Parting Comb for Braiding Wooden Afro pick Comb"
+    },
+    {
+        "Path":  "images/Accessories/Rat Tail Comb for Hair Stylist, Parting Combs for Braiding hair , Rattail Comb with Metal Stainless steel pintail for sectioning, Teasing and Styling [Rs 200].webp",
+        "BaseName":  "Rat Tail Comb for Hair Stylist, Parting Combs for Braiding hair , Rattail Comb with Metal Stainless steel pintail for sectioning, Teasing and Styling"
+    },
+    {
+        "Path":  "images/Accessories/Red Cherry Eyelashes Black 100% Human Hair [Rs 200].jpg",
+        "BaseName":  "Red Cherry Eyelashes Black 100% Human Hair"
+    },
+    {
+        "Path":  "images/Accessories/Silver Metal Hair Beads 48 pieces [Rs 150].jpg",
+        "BaseName":  "Silver Metal Hair Beads 48 pieces"
+    },
+    {
+        "Path":  "images/Accessories/Small Pin Crochet Weaving Latch Hook Dreadlock Crochet sew wig hair Needle for Micro Braids Tools Home DIY Knitting [Rs 300].jpg",
+        "BaseName":  "Small Pin Crochet Weaving Latch Hook Dreadlock Crochet sew wig hair Needle for Micro Braids Tools Home DIY Knitting"
+    },
+    {
+        "Path":  "images/Accessories/Used Once - Like New Ghana Must Go Bags - Big \u0026 Large Sizes [Rs 500].avif",
+        "BaseName":  "Used Once - Like New Ghana Must Go Bags - Big \u0026 Large Sizes"
+    },
+    {
+        "Path":  "images/Accessories/WHOT Play Cards Game [Rs 150].webp",
+        "BaseName":  "WHOT Play Cards Game"
+    },
+    {
+        "Path":  "images/Accessories/Wig Cap - 1 piece [Rs 150].jpg",
+        "BaseName":  "Wig Cap - 1 piece"
+    },
+    {
+        "Path":  "images/Accessories/Wig Cap [Rs 200].webp",
+        "BaseName":  "Wig Cap"
+    },
+    {
+        "Path":  "images/Beauty and personal Care/Body Care/African Local Sponge (kankan Ibile) Organic Exfoliating bath Spnge, Shower sponge [Rs 200].webp",
         "BaseName":  "African Local Sponge (kankan Ibile) Organic Exfoliating bath Spnge, Shower sponge"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Argeville Carambola Black Spots Herbal Soap New Honey 120g.avif",
+        "Path":  "images/Beauty and personal Care/Body Care/Argeville Carambola Black Spots Herbal Soap New Honey 120g [Rs 300].avif",
         "BaseName":  "Argeville Carambola Black Spots Herbal Soap New Honey 120g"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/B.B Clear Dark spot remover.avif",
+        "Path":  "images/Beauty and personal Care/Body Care/B.B Clear Dark spot remover [Rs 400].avif",
         "BaseName":  "B.B Clear Dark spot remover"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/B.B Clear lightening Body Lotion 300ml.jpg",
+        "Path":  "images/Beauty and personal Care/Body Care/B.B Clear lightening Body Lotion 300ml [Rs 1000].jpg",
         "BaseName":  "B.B Clear lightening Body Lotion 300ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/B.B Clear Serum.jpg",
+        "Path":  "images/Beauty and personal Care/Body Care/B.B Clear Serum [Rs 600].jpg",
         "BaseName":  "B.B Clear Serum"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/B.B Clear Skin Respectful oil Lightening Eclaircissant Aclarador Oil.webp",
+        "Path":  "images/Beauty and personal Care/Body Care/B.B Clear Skin Respectful oil Lightening Eclaircissant Aclarador Oil [Rs 400].webp",
         "BaseName":  "B.B Clear Skin Respectful oil Lightening Eclaircissant Aclarador Oil"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/B.B Clear Soap Clarifying Lightening Soap 190g.webp",
+        "Path":  "images/Beauty and personal Care/Body Care/B.B Clear Soap Clarifying Lightening Soap 190g [Rs 400].webp",
         "BaseName":  "B.B Clear Soap Clarifying Lightening Soap 190g"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Beneks fashion Fair cream fast action tube - 25g.jpg",
+        "Path":  "images/Beauty and personal Care/Body Care/Beneks fashion Fair cream fast action tube - 25g [Rs 300].jpg",
         "BaseName":  "Beneks fashion Fair cream fast action tube - 25g"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Beneks Fashion Fair Gel plus fast action tube - 30g.avif",
+        "Path":  "images/Beauty and personal Care/Body Care/Beneks Fashion Fair Gel plus fast action tube - 30g [Rs 300].avif",
         "BaseName":  "Beneks Fashion Fair Gel plus fast action tube - 30g"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Bio Claire Lightening Soap 6.7 oz.jpg",
+        "Path":  "images/Beauty and personal Care/Body Care/Bio Claire Lightening Soap 6.7 oz [Rs 400].jpg",
         "BaseName":  "Bio Claire Lightening Soap 6.7 oz"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Caro White Body Lotion 300ml.jpg",
+        "Path":  "images/Beauty and personal Care/Body Care/Caro White Body Lotion 300ml [Rs 900].jpg",
         "BaseName":  "Caro White Body Lotion 300ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Caro White Body Lotion 500ml.avif",
+        "Path":  "images/Beauty and personal Care/Body Care/Caro White Body Lotion 500ml [Rs 1400].avif",
         "BaseName":  "Caro White Body Lotion 500ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Caro white lightening beauty cream 120ml.jpg",
+        "Path":  "images/Beauty and personal Care/Body Care/Caro white lightening beauty cream 120ml [Rs 350].jpg",
         "BaseName":  "Caro white lightening beauty cream 120ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/caro White Lightening Beauty Cream 500ml.webp",
+        "Path":  "images/Beauty and personal Care/Body Care/caro White Lightening Beauty Cream 500ml [Rs 1400].webp",
         "BaseName":  "caro White Lightening Beauty Cream 500ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Caro White Lightening Beauty Soap with carrot oil 180g.avif",
+        "Path":  "images/Beauty and personal Care/Body Care/Caro White Lightening Beauty Soap with carrot oil 180g [Rs 400].avif",
         "BaseName":  "Caro White Lightening Beauty Soap with carrot oil 180g"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Caro White Oil - Lightening Oil 50ml.jpg",
+        "Path":  "images/Beauty and personal Care/Body Care/Caro White Oil - Lightening Oil 50ml [Rs 300].jpg",
         "BaseName":  "Caro White Oil - Lightening Oil 50ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Caro White tube 30g.webp",
+        "Path":  "images/Beauty and personal Care/Body Care/Caro White tube 30g [Rs 400].webp",
         "BaseName":  "Caro White tube 30g"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Carotone Black spot Corrector B.S.C Serum Maxi effect concentrated Formula 30ml.jpg",
+        "Path":  "images/Beauty and personal Care/Body Care/Carotone Black spot Corrector B.S.C Serum Maxi effect concentrated Formula 30ml [Rs 450].jpg",
         "BaseName":  "Carotone Black spot Corrector B.S.C Serum Maxi effect concentrated Formula 30ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Carotone Brightening Oil 2.2 Oz.jpg",
+        "Path":  "images/Beauty and personal Care/Body Care/Carotone Brightening Oil 2.2 Oz [Rs 300].jpg",
         "BaseName":  "Carotone Brightening Oil 2.2 Oz"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Carotone Brightening Soap 6.7 Oz ( Skin Lightening Treatment)  190g.webp",
+        "Path":  "images/Beauty and personal Care/Body Care/Carotone Brightening Soap 6.7 Oz ( Skin Lightening Treatment)  190g [Rs 400].webp",
         "BaseName":  "Carotone Brightening Soap 6.7 Oz ( Skin Lightening Treatment)  190g"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Carotone Light \u0026 Bright Natural Brightening Body lotion 350ml.jpg",
+        "Path":  "images/Beauty and personal Care/Body Care/Carotone Light \u0026 Bright Natural Brightening Body lotion 350ml [Rs 1000].jpg",
         "BaseName":  "Carotone Light \u0026 Bright Natural Brightening Body lotion 350ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Carotone Light \u0026 Natural Trio Black Spot Corrector Trio.jpg",
+        "Path":  "images/Beauty and personal Care/Body Care/Carotone Light \u0026 Natural Trio Black Spot Corrector Trio [Rs 400].jpg",
         "BaseName":  "Carotone Light \u0026 Natural Trio Black Spot Corrector Trio"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Carotone Light Natural brightening body lotion 215ml.webp",
+        "Path":  "images/Beauty and personal Care/Body Care/Carotone Light Natural brightening body lotion 215ml [Rs 700].webp",
         "BaseName":  "Carotone Light Natural brightening body lotion 215ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Carotone light Natural Brightening Body lotion with sun protection 500ml.jpg",
+        "Path":  "images/Beauty and personal Care/Body Care/Carotone light Natural Brightening Body lotion with sun protection 500ml [Rs 1500].jpg",
         "BaseName":  "Carotone light Natural Brightening Body lotion with sun protection 500ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Carotone Natural Glow Clarifying Cream - 300ml.jpg",
+        "Path":  "images/Beauty and personal Care/Body Care/Carotone Natural Glow Clarifying Cream - 300ml [Rs 1000].jpg",
         "BaseName":  "Carotone Natural Glow Clarifying Cream - 300ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Citroclear Concentrated Serum with lemon extracts 50ml.webp",
+        "Path":  "images/Beauty and personal Care/Body Care/Citroclear Concentrated Serum with lemon extracts 50ml [Rs 500].webp",
         "BaseName":  "Citroclear Concentrated Serum with lemon extracts 50ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Clinic Clear Body Oil 125ml.avif",
+        "Path":  "images/Beauty and personal Care/Body Care/Clinic Clear Body Oil 125ml [Rs 400].avif",
         "BaseName":  "Clinic Clear Body Oil 125ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Clinic Clear Swiss formula Whitening Body Care Soap 225g.jpg",
+        "Path":  "images/Beauty and personal Care/Body Care/Clinic Clear Swiss formula Whitening Body Care Soap 225g [Rs 500].jpg",
         "BaseName":  "Clinic Clear Swiss formula Whitening Body Care Soap 225g"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Clinic Clear Whitening Body Lotion 250ml.avif",
+        "Path":  "images/Beauty and personal Care/Body Care/Clinic Clear Whitening Body Lotion 250ml [Rs 700].avif",
         "BaseName":  "Clinic Clear Whitening Body Lotion 250ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Clinic Clear Whitening Body Lotion 500ml.webp",
+        "Path":  "images/Beauty and personal Care/Body Care/Clinic Clear Whitening Body Lotion 500ml [Rs 1400].webp",
         "BaseName":  "Clinic Clear Whitening Body Lotion 500ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Clinic Clear Whitening Cream 50g.jpg",
+        "Path":  "images/Beauty and personal Care/Body Care/Clinic Clear Whitening Cream 50g [Rs 400].jpg",
         "BaseName":  "Clinic Clear Whitening Cream 50g"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/CT+ Clear Therapy Extra Lightening Lotion with carrot oil 250ml.webp",
+        "Path":  "images/Beauty and personal Care/Body Care/CT+ Clear Therapy Extra Lightening Lotion with carrot oil 250ml [Rs 800].webp",
         "BaseName":  "CT+ Clear Therapy Extra Lightening Lotion with carrot oil 250ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/CT+ Clear therapy extra lightening lotion with carrot oil 500ml.webp",
+        "Path":  "images/Beauty and personal Care/Body Care/CT+ Clear therapy extra lightening lotion with carrot oil 500ml [Rs 1500].webp",
         "BaseName":  "CT+ Clear therapy extra lightening lotion with carrot oil 500ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/CT+ Clear Therapy Lightening Purifying Soap with carrot oil.avif",
+        "Path":  "images/Beauty and personal Care/Body Care/CT+ Clear Therapy Lightening Purifying Soap with carrot oil [Rs 450].avif",
         "BaseName":  "CT+ Clear Therapy Lightening Purifying Soap with carrot oil"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/CT+ Cleart Therapy intensive Serum with Carrot oil 75ml.webp",
+        "Path":  "images/Beauty and personal Care/Body Care/CT+ Cleart Therapy intensive Serum with Carrot oil 75ml [Rs 600].webp",
         "BaseName":  "CT+ Cleart Therapy intensive Serum with Carrot oil 75ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Dudu Osun African Black Soap.jpg",
+        "Path":  "images/Beauty and personal Care/Body Care/Dudu Osun African Black Soap [Rs 400].jpg",
         "BaseName":  "Dudu Osun African Black Soap"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Epiderm Cream Triple Action 30g.webp",
+        "Path":  "images/Beauty and personal Care/Body Care/Epiderm Cream Triple Action 30g [Rs 300].webp",
         "BaseName":  "Epiderm Cream Triple Action 30g"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Esapharma Lemonvate gel tube 30g.jpg",
+        "Path":  "images/Beauty and personal Care/Body Care/Esapharma Lemonvate gel tube 30g [Rs 300].jpg",
         "BaseName":  "Esapharma Lemonvate gel tube 30g"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Esapharma Movate Tube gel 30g.avif",
+        "Path":  "images/Beauty and personal Care/Body Care/Esapharma Movate Tube gel 30g [Rs 300].avif",
         "BaseName":  "Esapharma Movate Tube gel 30g"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Esapharma Oranvate gel Tube- 3og.webp",
+        "Path":  "images/Beauty and personal Care/Body Care/Esapharma Oranvate gel Tube- 3og [Rs 300].webp",
         "BaseName":  "Esapharma Oranvate gel Tube- 3og"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Extracxt Papaya Clamansi Whitening herbal soap 125g.webp",
+        "Path":  "images/Beauty and personal Care/Body Care/Extracxt Papaya Clamansi Whitening herbal soap 125g [Rs 300].webp",
         "BaseName":  "Extracxt Papaya Clamansi Whitening herbal soap 125g"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/F\u0026W So White Brightening Shower Gel 1000ml.webp",
+        "Path":  "images/Beauty and personal Care/Body Care/F\u0026W So White Brightening Shower Gel 1000ml [Rs 3100].webp",
         "BaseName":  "F\u0026W So White Brightening Shower Gel 1000ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/F\u0026W So White Perfector Serum.webp",
+        "Path":  "images/Beauty and personal Care/Body Care/F\u0026W So White Perfector Serum [Rs 1300].webp",
         "BaseName":  "F\u0026W So White Perfector Serum"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Fair and White Carrot Brightening Tonifying-Shower 1000ml.webp",
+        "Path":  "images/Beauty and personal Care/Body Care/Fair and White Carrot Brightening Tonifying-Shower 1000ml [Rs 3000].webp",
         "BaseName":  "Fair and White Carrot Brightening Tonifying-Shower 1000ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Fair and white fair\u0026white GOLD 2 Revitalizing Body Lotion -500ml.webp",
+        "Path":  "images/Beauty and personal Care/Body Care/Fair and white fair\u0026white GOLD 2 Revitalizing Body Lotion -500ml [Rs 3000].webp",
         "BaseName":  "Fair and white fair\u0026white GOLD 2 Revitalizing Body Lotion -500ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Fair and White Lait Corps exclusive Whitenizer Body Lotion - 500ml.avif",
+        "Path":  "images/Beauty and personal Care/Body Care/Fair and White Lait Corps exclusive Whitenizer Body Lotion - 500ml [Rs 3000].avif",
         "BaseName":  "Fair and White Lait Corps exclusive Whitenizer Body Lotion - 500ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Fair\u0026White 3 Gold Rejuvenating Moisture Lotion 17.6 fl. oz 500ml.webp",
+        "Path":  "images/Beauty and personal Care/Body Care/Fair\u0026White 3 Gold Rejuvenating Moisture Lotion 17.6 fl. oz 500ml [Rs 3000].webp",
         "BaseName":  "Fair\u0026White 3 Gold Rejuvenating Moisture Lotion 17.6 fl. oz 500ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Fair\u0026white Lait Power C exclusive whitenizer Body Lotion with Vitamin C 500ml.webp",
+        "Path":  "images/Beauty and personal Care/Body Care/Fair\u0026white Lait Power C exclusive whitenizer Body Lotion with Vitamin C 500ml [Rs 3000].webp",
         "BaseName":  "Fair\u0026white Lait Power C exclusive whitenizer Body Lotion with Vitamin C 500ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Fair\u0026white So white Brightening Oil 250ml.webp",
+        "Path":  "images/Beauty and personal Care/Body Care/Fair\u0026white So white Brightening Oil 250ml [Rs 2000].webp",
         "BaseName":  "Fair\u0026white So white Brightening Oil 250ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Fair\u0026White So White Maxi tone clarifying body milk 8.45 oz 250ml.webp",
+        "Path":  "images/Beauty and personal Care/Body Care/Fair\u0026White So White Maxi tone clarifying body milk 8.45 oz 250ml [Rs 2300].webp",
         "BaseName":  "Fair\u0026White So White Maxi tone clarifying body milk 8.45 oz 250ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Light Up Dark Spots Correcting beauty lotion 400ml.avif",
+        "Path":  "images/Beauty and personal Care/Body Care/Light Up Dark Spots Correcting beauty lotion 400ml [Rs 1400].avif",
         "BaseName":  "Light Up Dark Spots Correcting beauty lotion 400ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Nixoderm Tube Cream.avif",
+        "Path":  "images/Beauty and personal Care/Body Care/Nixoderm Tube Cream [Rs 200].avif",
         "BaseName":  "Nixoderm Tube Cream"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Original Crusader Medicated Soap Made In England 80g.webp",
+        "Path":  "images/Beauty and personal Care/Body Care/Original Crusader Medicated Soap Made In England 80g [Rs 400].webp",
         "BaseName":  "Original Crusader Medicated Soap Made In England 80g"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Paw Paw Clarifying Body lotion with Vitamin E and Papaya extracts 300ml.webp",
+        "Path":  "images/Beauty and personal Care/Body Care/Paw Paw Clarifying Body lotion with Vitamin E and Papaya extracts 300ml [Rs 1000].webp",
         "BaseName":  "Paw Paw Clarifying Body lotion with Vitamin E and Papaya extracts 300ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Paw Paw Clarifying Body lotion with Vitamin E and papaya extracts 500ml.webp",
+        "Path":  "images/Beauty and personal Care/Body Care/Paw Paw Clarifying Body lotion with Vitamin E and papaya extracts 500ml [Rs 1500].webp",
         "BaseName":  "Paw Paw Clarifying Body lotion with Vitamin E and papaya extracts 500ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Paw Paw Clarifying Body Oil with Vitamin E and Papaya extracts 60ml.webp",
+        "Path":  "images/Beauty and personal Care/Body Care/Paw Paw Clarifying Body Oil with Vitamin E and Papaya extracts 60ml [Rs 300].webp",
         "BaseName":  "Paw Paw Clarifying Body Oil with Vitamin E and Papaya extracts 60ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Paw Paw Clarifying Body Soap with Vitamin E and papaya extracts 180g.webp",
+        "Path":  "images/Beauty and personal Care/Body Care/Paw Paw Clarifying Body Soap with Vitamin E and papaya extracts 180g [Rs 400].webp",
         "BaseName":  "Paw Paw Clarifying Body Soap with Vitamin E and papaya extracts 180g"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Paw Paw extract raidance activating Booster serum with Vitamin E - One piece.webp",
+        "Path":  "images/Beauty and personal Care/Body Care/Paw Paw extract raidance activating Booster serum with Vitamin E - One piece [Rs 200].webp",
         "BaseName":  "Paw Paw extract raidance activating Booster serum with Vitamin E - One piece"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Precious Perfect Revitalizing Fade Lotion 500ml.webp",
+        "Path":  "images/Beauty and personal Care/Body Care/Precious Perfect Revitalizing Fade Lotion 500ml [Rs 1500].webp",
         "BaseName":  "Precious Perfect Revitalizing Fade Lotion 500ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Queen Elisabeth Cocoa butter hand and body lotion Cream 250ml.jpg",
+        "Path":  "images/Beauty and personal Care/Body Care/Queen Elisabeth Cocoa butter hand and body lotion Cream 250ml [Rs 700].jpg",
         "BaseName":  "Queen Elisabeth Cocoa butter hand and body lotion Cream 250ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Raw Organic African Black Soap 125g.webp",
+        "Path":  "images/Beauty and personal Care/Body Care/Raw Organic African Black Soap 125g [Rs 250].webp",
         "BaseName":  "Raw Organic African Black Soap 125g"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Raw Organic African Black Soap 250g.webp",
+        "Path":  "images/Beauty and personal Care/Body Care/Raw Organic African Black Soap 250g [Rs 450].webp",
         "BaseName":  "Raw Organic African Black Soap 250g"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Vaseline Intensive care Cocoa Radiant , Vitalizing Body oil 6.8 fi oz - 200ml.webp",
+        "Path":  "images/Beauty and personal Care/Body Care/Vaseline Intensive care Cocoa Radiant , Vitalizing Body oil 6.8 fi oz - 200ml [Rs 900].webp",
         "BaseName":  "Vaseline Intensive care Cocoa Radiant , Vitalizing Body oil 6.8 fi oz - 200ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Vaseline Intensive Care Vitalizing Gel Body oil with Brazillian Nuts and Almond oil 6.8 fi oz-Rich 200ml.webp",
+        "Path":  "images/Beauty and personal Care/Body Care/Vaseline Intensive Care Vitalizing Gel Body oil with Brazillian Nuts and Almond oil 6.8 fi oz-Rich 200ml [Rs 900].webp",
         "BaseName":  "Vaseline Intensive Care Vitalizing Gel Body oil with Brazillian Nuts and Almond oil 6.8 fi oz-Rich 200ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Vaseline Intensive Care Vitamin B3 body oil 200ml.webp",
+        "Path":  "images/Beauty and personal Care/Body Care/Vaseline Intensive Care Vitamin B3 body oil 200ml [Rs 900].webp",
         "BaseName":  "Vaseline Intensive Care Vitamin B3 body oil 200ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Veet Gold Original Turmeric Super whitrening body \u0026 face repair oil dark spot \u0026 anti-aging.webp",
+        "Path":  "images/Beauty and personal Care/Body Care/Veet Gold Original Turmeric Super whitrening body \u0026 face repair oil dark spot \u0026 anti-aging [Rs 700].webp",
         "BaseName":  "Veet Gold Original Turmeric Super whitrening body \u0026 face repair oil dark spot \u0026 anti-aging"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Veet Gold turmeric Body oil gel anti blemish and Anti dark spot 7 days active Whitening.webp",
+        "Path":  "images/Beauty and personal Care/Body Care/Veet Gold turmeric Body oil gel anti blemish and Anti dark spot 7 days active Whitening [Rs 900].webp",
         "BaseName":  "Veet Gold turmeric Body oil gel anti blemish and Anti dark spot 7 days active Whitening"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Veet Gold turmeric Super Whitening Body Repair Soap Anti Dark Spot and Anti Aging 250g.webp",
+        "Path":  "images/Beauty and personal Care/Body Care/Veet Gold turmeric Super Whitening Body Repair Soap Anti Dark Spot and Anti Aging 250g [Rs 700].webp",
         "BaseName":  "Veet Gold turmeric Super Whitening Body Repair Soap Anti Dark Spot and Anti Aging 250g"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/Veet Gold Vitamin C face And body corrector 7 days glowing oil 200ml.webp",
+        "Path":  "images/Beauty and personal Care/Body Care/Veet Gold Vitamin C face And body corrector 7 days glowing oil 200ml [Rs 700].webp",
         "BaseName":  "Veet Gold Vitamin C face And body corrector 7 days glowing oil 200ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/White Secret Lightening Body Lotion ( Bright result from the very dirst 5 days) 200ml.jpg",
+        "Path":  "images/Beauty and personal Care/Body Care/White Secret Lightening Body Lotion ( Bright result from the very dirst 5 days) 200ml [Rs 700].jpg",
         "BaseName":  "White Secret Lightening Body Lotion ( Bright result from the very dirst 5 days) 200ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/White Secret Lightening Body Lotion ( Bright result from the very dirst 5 days) 300ml.jpg",
+        "Path":  "images/Beauty and personal Care/Body Care/White Secret Lightening Body Lotion ( Bright result from the very dirst 5 days) 300ml [Rs 1000].jpg",
         "BaseName":  "White Secret Lightening Body Lotion ( Bright result from the very dirst 5 days) 300ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Body Care/White Secret Lightening Body lotion 500ml.jpg",
+        "Path":  "images/Beauty and personal Care/Body Care/White Secret Lightening Body lotion 500ml [Rs 1500].jpg",
         "BaseName":  "White Secret Lightening Body lotion 500ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/10 Piece Small Size Mixed Color Bending Rollers.webp",
+        "Path":  "images/Beauty and personal Care/Hare Care/10 Piece Small Size Mixed Color Bending Rollers [Rs 300].webp",
         "BaseName":  "10 Piece Small Size Mixed Color Bending Rollers"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/10 Pieces Big size Mixed Color Bending Rollers.webp",
+        "Path":  "images/Beauty and personal Care/Hare Care/10 Pieces Big size Mixed Color Bending Rollers [Rs 300].webp",
         "BaseName":  "10 Pieces Big size Mixed Color Bending Rollers"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/10 Pieces Medium Size Mixed Color Bending Rollers.webp",
+        "Path":  "images/Beauty and personal Care/Hare Care/10 Pieces Medium Size Mixed Color Bending Rollers [Rs 300].webp",
         "BaseName":  "10 Pieces Medium Size Mixed Color Bending Rollers"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/Above Hair Styling Holding Mousse (Spray) Ultra Hold with Extra Conditioner 200ml.webp",
+        "Path":  "images/Beauty and personal Care/Hare Care/Above Hair Styling Holding Mousse (Spray) Ultra Hold with Extra Conditioner 200ml [Rs 400].webp",
         "BaseName":  "Above Hair Styling Holding Mousse (Spray) Ultra Hold with Extra Conditioner 200ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/Above Hair Styling Holding Mousse (Spray) Ultra Hold with Extra Conditioner 400ml.webp",
+        "Path":  "images/Beauty and personal Care/Hare Care/Above Hair Styling Holding Mousse (Spray) Ultra Hold with Extra Conditioner 400ml [Rs 800].webp",
         "BaseName":  "Above Hair Styling Holding Mousse (Spray) Ultra Hold with Extra Conditioner 400ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/BMB Wig Lace Glue Tube 1 oz by BMB.webp",
+        "Path":  "images/Beauty and personal Care/Hare Care/BMB Wig Lace Glue Tube 1 oz by BMB [Rs 1200].webp",
         "BaseName":  "BMB Wig Lace Glue Tube 1 oz by BMB"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/Cantu Argan Oil leave in conditioning repair cream , 16 Ounce.webp",
+        "Path":  "images/Beauty and personal Care/Hare Care/Cantu Argan Oil leave in conditioning repair cream , 16 Ounce [Rs 999].webp",
         "BaseName":  "Cantu Argan Oil leave in conditioning repair cream , 16 Ounce"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/Cantu Avocado Hydrating Cream Conditioner 400ml.webp",
+        "Path":  "images/Beauty and personal Care/Hare Care/Cantu Avocado Hydrating Cream Conditioner 400ml [Rs 900].webp",
         "BaseName":  "Cantu Avocado Hydrating Cream Conditioner 400ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/Cantu Avocado Sulfate Free Cream Conditioner with Avocado Oil \u0026 Shea Butter 13.5 FI Oz (400ml).webp",
+        "Path":  "images/Beauty and personal Care/Hare Care/Cantu Avocado Sulfate Free Cream Conditioner with Avocado Oil \u0026 Shea Butter 13.5 FI Oz (400ml) [Rs 900].webp",
         "BaseName":  "Cantu Avocado Sulfate Free Cream Conditioner with Avocado Oil \u0026 Shea Butter 13.5 FI Oz (400ml)"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/Cantu Care for kids Conditioning Detangler , 6 Fluid Ounce.webp",
+        "Path":  "images/Beauty and personal Care/Hare Care/Cantu Care for kids Conditioning Detangler , 6 Fluid Ounce [Rs 700].webp",
         "BaseName":  "Cantu Care for kids Conditioning Detangler , 6 Fluid Ounce"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/Cantu Coconut Curling cream , 12 Ounce.avif",
+        "Path":  "images/Beauty and personal Care/Hare Care/Cantu Coconut Curling cream , 12 Ounce [Rs 1000].avif",
         "BaseName":  "Cantu Coconut Curling cream , 12 Ounce"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/Cantu Flaxseed Conditioner Leave In or Rinse Out 400ml.webp",
+        "Path":  "images/Beauty and personal Care/Hare Care/Cantu Flaxseed Conditioner Leave In or Rinse Out 400ml [Rs 900].webp",
         "BaseName":  "Cantu Flaxseed Conditioner Leave In or Rinse Out 400ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/Cantu Flaxseed Sulfate-Free Exfoloating Shampoo with FLaxseed oil \u0026 Shea Butter 400ml.webp",
+        "Path":  "images/Beauty and personal Care/Hare Care/Cantu Flaxseed Sulfate-Free Exfoloating Shampoo with FLaxseed oil \u0026 Shea Butter 400ml [Rs 900].webp",
         "BaseName":  "Cantu Flaxseed Sulfate-Free Exfoloating Shampoo with FLaxseed oil \u0026 Shea Butter 400ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/Cantu Grapeseed Strengthening Conditioner 400ml.webp",
+        "Path":  "images/Beauty and personal Care/Hare Care/Cantu Grapeseed Strengthening Conditioner 400ml [Rs 900].webp",
         "BaseName":  "Cantu Grapeseed Strengthening Conditioner 400ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/Cantu Grapeseed Strengthening Shampoo Sulfate Free (13.5oz) 400ml.webp",
+        "Path":  "images/Beauty and personal Care/Hare Care/Cantu Grapeseed Strengthening Shampoo Sulfate Free (13.5oz) 400ml [Rs 900].webp",
         "BaseName":  "Cantu Grapeseed Strengthening Shampoo Sulfate Free (13.5oz) 400ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/Cantu Shea Butter for Natural Hair Conditioning Co- wash , 10 ounce.webp",
+        "Path":  "images/Beauty and personal Care/Hare Care/Cantu Shea Butter for Natural Hair Conditioning Co- wash , 10 ounce [Rs 1000].webp",
         "BaseName":  "Cantu Shea Butter for Natural Hair Conditioning Co- wash , 10 ounce"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/Cantu Shea Butter for Natural Hair leave in Conditioning Repair cream 340g.webp",
+        "Path":  "images/Beauty and personal Care/Hare Care/Cantu Shea Butter for Natural Hair leave in Conditioning Repair cream 340g [Rs 900].webp",
         "BaseName":  "Cantu Shea Butter for Natural Hair leave in Conditioning Repair cream 340g"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/Cantu Shea Butter Moisturizing Curl Activator Cream 355ml.webp",
+        "Path":  "images/Beauty and personal Care/Hare Care/Cantu Shea Butter Moisturizing Curl Activator Cream 355ml [Rs 1100].webp",
         "BaseName":  "Cantu Shea Butter Moisturizing Curl Activator Cream 355ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/Canty Extra Hold Edge Stay Gel 64g, 2.25 oz.webp",
+        "Path":  "images/Beauty and personal Care/Hare Care/Canty Extra Hold Edge Stay Gel 64g, 2.25 oz [Rs 600].webp",
         "BaseName":  "Canty Extra Hold Edge Stay Gel 64g, 2.25 oz"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/Damatol Medicated Hair \u0026 Scalp Treatment 55g.jpg",
+        "Path":  "images/Beauty and personal Care/Hare Care/Damatol Medicated Hair \u0026 Scalp Treatment 55g [Rs 200].jpg",
         "BaseName":  "Damatol Medicated Hair \u0026 Scalp Treatment 55g"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/Dark \u0026 Lovely Hair Relaxer Kit - Regular.jpg",
+        "Path":  "images/Beauty and personal Care/Hare Care/Dark \u0026 Lovely Hair Relaxer Kit - Regular [Rs 1400].jpg",
         "BaseName":  "Dark \u0026 Lovely Hair Relaxer Kit - Regular"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/Dop Shampoo With Egg 100ml.jpg",
+        "Path":  "images/Beauty and personal Care/Hare Care/Dop Shampoo With Egg 100ml [Rs 150].jpg",
         "BaseName":  "Dop Shampoo With Egg 100ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/Eco Professional Styling Gel Olive Oil 236ml.avif",
+        "Path":  "images/Beauty and personal Care/Hare Care/Eco Professional Styling Gel Olive Oil 236ml [Rs 600].avif",
         "BaseName":  "Eco Professional Styling Gel Olive Oil 236ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/Eco Styler Gel olive oil 8 oz 236ml.webp",
+        "Path":  "images/Beauty and personal Care/Hare Care/Eco Styler Gel olive oil 8 oz 236ml [Rs 600].webp",
         "BaseName":  "Eco Styler Gel olive oil 8 oz 236ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/Freedom Collection DADA Locs Dreadlock Synthetic Crochet - Maroon.webp",
+        "Path":  "images/Beauty and personal Care/Hare Care/Freedom Collection DADA Locs Dreadlock Synthetic Crochet - Maroon [Rs 1500].webp",
         "BaseName":  "Freedom Collection DADA Locs Dreadlock Synthetic Crochet - Maroon"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/Kuza 100% Indian Hemp Hair \u0026 Scalp Treatment 8oz. 226g.jpg",
+        "Path":  "images/Beauty and personal Care/Hare Care/Kuza 100% Indian Hemp Hair \u0026 Scalp Treatment 8oz. 226g [Rs 900].jpg",
         "BaseName":  "Kuza 100% Indian Hemp Hair \u0026 Scalp Treatment 8oz. 226g"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/Lanell Hair Bonding Glue 30ml.jpg",
+        "Path":  "images/Beauty and personal Care/Hare Care/Lanell Hair Bonding Glue 30ml [Rs 200].jpg",
         "BaseName":  "Lanell Hair Bonding Glue 30ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/Mouldin Maximum Hold Dreadloc Wax Gel 250ml.jpg",
+        "Path":  "images/Beauty and personal Care/Hare Care/Mouldin Maximum Hold Dreadloc Wax Gel 250ml [Rs 1100].jpg",
         "BaseName":  "Mouldin Maximum Hold Dreadloc Wax Gel 250ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/ORS Olive Oil No lye Relaxer Kit, Normal.jpg",
+        "Path":  "images/Beauty and personal Care/Hare Care/ORS Olive Oil No lye Relaxer Kit, Normal [Rs 1250].jpg",
         "BaseName":  "ORS Olive Oil No lye Relaxer Kit, Normal"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/ORS Olive Oil No Lye Relaxer Sachet - regular.jpg",
+        "Path":  "images/Beauty and personal Care/Hare Care/ORS Olive Oil No Lye Relaxer Sachet - regular [Rs 400].jpg",
         "BaseName":  "ORS Olive Oil No Lye Relaxer Sachet - regular"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/ORS Olive Oil Nourishing Sheen ASpray 472ml.avif",
+        "Path":  "images/Beauty and personal Care/Hare Care/ORS Olive Oil Nourishing Sheen ASpray 472ml [Rs 1000].avif",
         "BaseName":  "ORS Olive Oil Nourishing Sheen ASpray 472ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/Parting Comb for Braiding Wooden Afro Pick Comb.webp",
+        "Path":  "images/Beauty and personal Care/Hare Care/Parting Comb for Braiding Wooden Afro Pick Comb [Rs 100].webp",
         "BaseName":  "Parting Comb for Braiding Wooden Afro Pick Comb"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/Petals Super Hold Black Styling Gel 100ml.webp",
+        "Path":  "images/Beauty and personal Care/Hare Care/Petals Super Hold Black Styling Gel 100ml [Rs 200].webp",
         "BaseName":  "Petals Super Hold Black Styling Gel 100ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/PROFECTIVE - Mega Growth Anti Damage No Lye Hair Relaxer - Super Strength.webp",
+        "Path":  "images/Beauty and personal Care/Hare Care/PROFECTIVE - Mega Growth Anti Damage No Lye Hair Relaxer - Super Strength [Rs 400].webp",
         "BaseName":  "PROFECTIVE - Mega Growth Anti Damage No Lye Hair Relaxer - Super Strength"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/Profective Mega Growth Daily Leave In Strengthener 250g.webp",
+        "Path":  "images/Beauty and personal Care/Hare Care/Profective Mega Growth Daily Leave In Strengthener 250g [Rs 400].webp",
         "BaseName":  "Profective Mega Growth Daily Leave In Strengthener 250g"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/Profective Mega Growth Daily Leave In Strengthener 500ml.webp",
+        "Path":  "images/Beauty and personal Care/Hare Care/Profective Mega Growth Daily Leave In Strengthener 500ml [Rs 800].webp",
         "BaseName":  "Profective Mega Growth Daily Leave In Strengthener 500ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/Profective Mega Growth Deep Conditioner Rinse Out 250g.jpg",
+        "Path":  "images/Beauty and personal Care/Hare Care/Profective Mega Growth Deep Conditioner Rinse Out 250g [Rs 400].jpg",
         "BaseName":  "Profective Mega Growth Deep Conditioner Rinse Out 250g"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/Sachet Profectiv Mega Growth Anti-Damage No - Iye Relaxer - Regular kit.webp",
+        "Path":  "images/Beauty and personal Care/Hare Care/Sachet Profectiv Mega Growth Anti-Damage No - Iye Relaxer - Regular kit [Rs 400].webp",
         "BaseName":  "Sachet Profectiv Mega Growth Anti-Damage No - Iye Relaxer - Regular kit"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/Soul Mate African Herbal Hair Cream 80g.webp",
+        "Path":  "images/Beauty and personal Care/Hare Care/Soul Mate African Herbal Hair Cream 80g [Rs 200].webp",
         "BaseName":  "Soul Mate African Herbal Hair Cream 80g"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/Soul Mate Hair Conditioner Plus Hair Cream for Growth \u0026 treatment 100g.jpg",
+        "Path":  "images/Beauty and personal Care/Hare Care/Soul Mate Hair Conditioner Plus Hair Cream for Growth \u0026 treatment 100g [Rs 350].jpg",
         "BaseName":  "Soul Mate Hair Conditioner Plus Hair Cream for Growth \u0026 treatment 100g"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/Soul Mate Hair Conditioner Plus Hair Cream For Growth \u0026 treatment 52g.webp",
+        "Path":  "images/Beauty and personal Care/Hare Care/Soul Mate Hair Conditioner Plus Hair Cream For Growth \u0026 treatment 52g [Rs 200].webp",
         "BaseName":  "Soul Mate Hair Conditioner Plus Hair Cream For Growth \u0026 treatment 52g"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/Soul Mate Hair Conditioner Plus Hair Cream for Growth \u0026 treatment 650g.jpg",
+        "Path":  "images/Beauty and personal Care/Hare Care/Soul Mate Hair Conditioner Plus Hair Cream for Growth \u0026 treatment 650g [Rs 1000].jpg",
         "BaseName":  "Soul Mate Hair Conditioner Plus Hair Cream for Growth \u0026 treatment 650g"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/Spiral Hair Curlers Rollers perm Rod for Hair Styling 20pc.webp",
+        "Path":  "images/Beauty and personal Care/Hare Care/Spiral Hair Curlers Rollers perm Rod for Hair Styling 20pc [Rs 300].webp",
         "BaseName":  "Spiral Hair Curlers Rollers perm Rod for Hair Styling 20pc"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/Strong Hair Wax Gel Edge Control 100g (one piece).avif",
+        "Path":  "images/Beauty and personal Care/Hare Care/Strong Hair Wax Gel Edge Control 100g (one piece) [Rs 300].avif",
         "BaseName":  "Strong Hair Wax Gel Edge Control 100g (one piece)"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/Thormona Malaysia 22\u002724\u002726 Long Ombre Straight Synthetic Weave - with closure.webp",
+        "Path":  "images/Beauty and personal Care/Hare Care/Thormona Malaysia 22\u002724\u002726 Long Ombre Straight Synthetic Weave - with closure [Rs 1300].webp",
         "BaseName":  "Thormona Malaysia 22\u002724\u002726 Long Ombre Straight Synthetic Weave - with closure"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/UB Universal Basic Hair relaxer 250ml.jpg",
+        "Path":  "images/Beauty and personal Care/Hare Care/UB Universal Basic Hair relaxer 250ml [Rs 500].jpg",
         "BaseName":  "UB Universal Basic Hair relaxer 250ml"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/virgin Hair fertilizer 125g.jpg",
+        "Path":  "images/Beauty and personal Care/Hare Care/virgin Hair fertilizer 125g [Rs 1000].jpg",
         "BaseName":  "virgin Hair fertilizer 125g"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/Virgin Hair Fertilizer 55g.jpg",
+        "Path":  "images/Beauty and personal Care/Hare Care/Virgin Hair Fertilizer 55g [Rs 400].jpg",
         "BaseName":  "Virgin Hair Fertilizer 55g"
     },
     {
-        "Path":  "images/Beauty and personal Care/Hare Care/Zenon So-Fine Classique Anti-Dandruff Hair Darkening Cream 100g.jpg",
+        "Path":  "images/Beauty and personal Care/Hare Care/Zenon So-Fine Classique Anti-Dandruff Hair Darkening Cream 100g [Rs 300].jpg",
         "BaseName":  "Zenon So-Fine Classique Anti-Dandruff Hair Darkening Cream 100g"
     },
     {
-        "Path":  "images/Home Page Products/ABOVE Hair Styling Holding Mousse (Spray) Ultra with Extra Conditioner 400m.webp",
-        "BaseName":  "ABOVE Hair Styling Holding Mousse (Spray) Ultra with Extra Conditioner 400m"
+        "Path":  "images/Beauty and personal Care/Makeup/Airwoman Black Eye Pencils (One piece) [Rs 100].webp",
+        "BaseName":  "Airwoman Black Eye Pencils (One piece)"
     },
     {
-        "Path":  "images/Home Page Products/African Wax Print Kente HighTarget 5.5 Meters (6 yards).webp",
-        "BaseName":  "African Wax Print Kente HighTarget 5.5 Meters (6 yards)"
+        "Path":  "images/Beauty and personal Care/Makeup/Airwoman Brown Eye Pencils (One Piece) [Rs 100].webp",
+        "BaseName":  "Airwoman Brown Eye Pencils (One Piece)"
     },
     {
-        "Path":  "images/Home Page Products/Ayoola Pando Yam Flour 900g.webp",
+        "Path":  "images/Beauty and personal Care/Makeup/Classic Foundation Color 507 (light) [Rs 500].avif",
+        "BaseName":  "Classic Foundation Color 507 (light)"
+    },
+    {
+        "Path":  "images/Beauty and personal Care/Makeup/Classic Foundation Color 607 (Medium) [Rs 500].jpg",
+        "BaseName":  "Classic Foundation Color 607 (Medium)"
+    },
+    {
+        "Path":  "images/Beauty and personal Care/Makeup/Classic Foundation Color 708 (Dark) [Rs 500].avif",
+        "BaseName":  "Classic Foundation Color 708 (Dark)"
+    },
+    {
+        "Path":  "images/Beauty and personal Care/Makeup/Classic Makeup Pressed Powder Medium [Rs 500].jpg",
+        "BaseName":  "Classic Makeup Pressed Powder Medium"
+    },
+    {
+        "Path":  "images/Beauty and personal Care/Makeup/Classic Makeup Pressed Powder USA - Dark [Rs 500].jpg",
+        "BaseName":  "Classic Makeup Pressed Powder USA - Dark"
+    },
+    {
+        "Path":  "images/Beauty and personal Care/Makeup/Classic Makeup Pressed Powder USA - Light [Rs 500].jpg",
+        "BaseName":  "Classic Makeup Pressed Powder USA - Light"
+    },
+    {
+        "Path":  "images/Beauty and personal Care/Makeup/Nail Ready to fix acrylic Nails For 12 Fingers - One Sachet [Rs 100].webp",
+        "BaseName":  "Nail Ready to fix acrylic Nails For 12 Fingers - One Sachet"
+    },
+    {
+        "Path":  "images/Beauty and personal Care/Makeup/Romantic May Squeezing N shine Lip Gloss and Balm One Piece [Rs 150].webp",
+        "BaseName":  "Romantic May Squeezing N shine Lip Gloss and Balm One Piece"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/African Food Items/Abacha ( African Salad ) Dried Casava flakes 50g [Rs 100].webp",
+        "BaseName":  "Abacha ( African Salad ) Dried Casava flakes 50g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/African Food Items/Achi Seed - Akpa Soup Thickener Dried 30g [Rs 100].webp",
+        "BaseName":  "Achi Seed - Akpa Soup Thickener Dried 30g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/African Food Items/Aguleri-Ede-Uri-Cocoyam-Soup-Thickener-200 [Rs 200].webp",
+        "BaseName":  "Aguleri-Ede-Uri-Cocoyam-Soup-Thickener-200"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/African Food Items/Akpi- Djansang - Njanan - Okhuen - Bofeko 30g [Rs 100].webp",
+        "BaseName":  "Akpi- Djansang - Njanan - Okhuen - Bofeko 30g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/African Food Items/Ayoola Pando Yam Flour 450g [Rs 475].webp",
+        "BaseName":  "Ayoola Pando Yam Flour 450g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/African Food Items/Ayoola Pando Yam Flour 900g [Rs 950].webp",
         "BaseName":  "Ayoola Pando Yam Flour 900g"
     },
     {
-        "Path":  "images/Home Page Products/Butter Blue Band Original Butter - 250g.webp",
-        "BaseName":  "Butter Blue Band Original Butter - 250g"
+        "Path":  "images/Food Products and Drinks/African Food Items/Banga Fresh Palm Fruit Extract , Palm Butter 400g [Rs 550].webp",
+        "BaseName":  "Banga Fresh Palm Fruit Extract , Palm Butter 400g"
     },
     {
-        "Path":  "images/Home Page Products/Cantu Coconut Curling Cream 12 Ounce.avif",
-        "BaseName":  "Cantu Coconut Curling Cream 12 Ounce"
+        "Path":  "images/Food Products and Drinks/African Food Items/Banga Fresh Palm Fruit Extract , Palm Butter 800g [Rs 1050].jpg",
+        "BaseName":  "Banga Fresh Palm Fruit Extract , Palm Butter 800g"
     },
     {
-        "Path":  "images/Home Page Products/Exeter Corned Beef Halal 200g - one piece.webp",
+        "Path":  "images/Food Products and Drinks/African Food Items/Butter Blue band original butter 250g [Rs 400].webp",
+        "BaseName":  "Butter Blue band original butter 250g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/African Food Items/Country Onion, Pucks, olum, Bobimbi, Rondelles 25g [Rs 100].webp",
+        "BaseName":  "Country Onion, Pucks, olum, Bobimbi, Rondelles 25g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/African Food Items/CrayFish (Dried Shrimps) [Rs 100].jpg",
+        "BaseName":  "CrayFish (Dried Shrimps)"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/African Food Items/Dried Bitter Leaves (Onugbu) [Rs 100].jpg",
+        "BaseName":  "Dried Bitter Leaves (Onugbu)"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/African Food Items/Dried Camroon Pepper [Rs 100].jpg",
+        "BaseName":  "Dried Camroon Pepper"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/African Food Items/Dried Catfish (Smoked) Up to 500g (Fish) [Rs 550].jpg",
+        "BaseName":  "Dried Catfish (Smoked) Up to 500g (Fish)"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/African Food Items/Dried Okazi-Ukazi leaves [Rs 100].webp",
+        "BaseName":  "Dried Okazi-Ukazi leaves"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/African Food Items/Dried Organic Tiger Nuts , Aya (Chufa Nuts) 1kg [Rs 1250].webp",
+        "BaseName":  "Dried Organic Tiger Nuts , Aya (Chufa Nuts) 1kg"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/African Food Items/Dried Periwinkles 30g (Soak it Overnight for Best Result) [Rs 100].jpg",
+        "BaseName":  "Dried Periwinkles 30g (Soak it Overnight for Best Result)"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/African Food Items/Dried Pomo-Kpomo Original [Rs 250].jpg",
+        "BaseName":  "Dried Pomo-Kpomo Original"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/African Food Items/Dried Red Chilli Pepper [Rs 100].webp",
+        "BaseName":  "Dried Red Chilli Pepper"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/African Food Items/Dried Ura-Uha Leaves [Rs 100].jpg",
+        "BaseName":  "Dried Ura-Uha Leaves"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/African Food Items/Dried Uziza Leaves - Piper - Guineense - Ashanti - pepper - Black pepper [Rs 100].jpg",
+        "BaseName":  "Dried Uziza Leaves - Piper - Guineense - Ashanti - pepper - Black pepper"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/African Food Items/Egusi Onga Spices Powder For Egusi Soup 8g [Rs 50].webp",
+        "BaseName":  "Egusi Onga Spices Powder For Egusi Soup 8g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/African Food Items/Exeter Corned Beef Halal 200g - one piece [Rs 350].webp",
         "BaseName":  "Exeter Corned Beef Halal 200g - one piece"
     },
     {
-        "Path":  "images/Home Page Products/Full lace Water Wave Synthetic wig - Natural Look.webp",
-        "BaseName":  "Full lace Water Wave Synthetic wig - Natural Look"
+        "Path":  "images/Food Products and Drinks/African Food Items/Garri Processed Cassava yellow 140g [Rs 100].webp",
+        "BaseName":  "Garri Processed Cassava yellow 140g"
     },
     {
-        "Path":  "images/Home Page Products/Gypsy Locs Synthetic Crochet Braids 24 strands 100g 18 inches.webp",
-        "BaseName":  "Gypsy Locs Synthetic Crochet Braids 24 strands 100g 18 inches"
+        "Path":  "images/Food Products and Drinks/African Food Items/Gino Tomato Paste 70g [Rs 100].webp",
+        "BaseName":  "Gino Tomato Paste 70g"
     },
     {
-        "Path":  "images/Home Page Products/Jekonmo Herbal Mixture (3.38 FI oz).webp",
-        "BaseName":  "Jekonmo Herbal Mixture (3.38 FI oz)"
+        "Path":  "images/Food Products and Drinks/African Food Items/Golden 521 K.S Aromatic Basmati Rice 1kg [Rs 250].webp",
+        "BaseName":  "Golden 521 K.S Aromatic Basmati Rice 1kg"
     },
     {
-        "Path":  "images/Home Page Products/Kilishi Kusha Shagalinku Kilishi 70g Tasty Beef Jerky - Suya.webp",
-        "BaseName":  "Kilishi Kusha Shagalinku Kilishi 70g Tasty Beef Jerky - Suya"
+        "Path":  "images/Food Products and Drinks/African Food Items/Gustora Pasta Spaghetti Golden 500g [Rs 200].webp",
+        "BaseName":  "Gustora Pasta Spaghetti Golden 500g"
     },
     {
-        "Path":  "images/Home Page Products/Kola Nuts Oji.avif",
-        "BaseName":  "Kola Nuts Oji"
+        "Path":  "images/Food Products and Drinks/African Food Items/Ijebu Garri processed Cassava white 140g [Rs 100].webp",
+        "BaseName":  "Ijebu Garri processed Cassava white 140g"
     },
     {
-        "Path":  "images/Home Page Products/Malta Guinness 330ml.webp",
-        "BaseName":  "Malta Guinness 330ml"
+        "Path":  "images/Food Products and Drinks/African Food Items/Ijebu Garri Processed Cassava white garri 1kg [Rs 550].webp",
+        "BaseName":  "Ijebu Garri Processed Cassava white garri 1kg"
     },
     {
-        "Path":  "images/Home Page Products/Mickeys Custard Powder Vanilla Flavour 1kg.webp",
+        "Path":  "images/Food Products and Drinks/African Food Items/INDOMIE Instant Noodles Chicken Flavour ( Box 40 X 70G) [Rs 1100].avif",
+        "BaseName":  "INDOMIE Instant Noodles Chicken Flavour ( Box 40 X 70G)"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/African Food Items/Indomie Instant Noodles Chicken Flavour- Small 70g Pack [Rs 27.50].webp",
+        "BaseName":  "Indomie Instant Noodles Chicken Flavour- Small 70g Pack"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/African Food Items/kilishi kusha shagalinku kilishi 70g Tasty beef jerky - Suya [Rs 250].webp",
+        "BaseName":  "kilishi kusha shagalinku kilishi 70g Tasty beef jerky - Suya"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/African Food Items/Larsor Chicken Seasoning [Rs 50].webp",
+        "BaseName":  "Larsor Chicken Seasoning"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/African Food Items/Mickeys Custard Powder Vanilla Flavour 1kg [Rs 250].webp",
         "BaseName":  "Mickeys Custard Powder Vanilla Flavour 1kg"
     },
     {
-        "Path":  "images/Home Page Products/napa goat Meat Flavour Assaisonnement Seasoning 10g.jpg",
-        "BaseName":  "napa goat Meat Flavour Assaisonnement Seasoning 10g"
+        "Path":  "images/Food Products and Drinks/African Food Items/Orima Seeds , Ataiko Seed purelyagro - Orioma banga Spice 25g [Rs 100].webp",
+        "BaseName":  "Orima Seeds , Ataiko Seed purelyagro - Orioma banga Spice 25g"
     },
     {
-        "Path":  "images/Home Page Products/Palm Oil 500ml.webp",
-        "BaseName":  "Palm Oil 500ml"
+        "Path":  "images/Food Products and Drinks/African Food Items/Palm OIl 250ml [Rs 250].jpg",
+        "BaseName":  "Palm OIl 250ml"
     },
     {
-        "Path":  "images/Home Page Products/Peak Instant Full Cream Milk Powder Sachet 360g.avif",
-        "BaseName":  "Peak Instant Full Cream Milk Powder Sachet 360g"
+        "Path":  "images/Food Products and Drinks/African Food Items/Palm Oil 500ml - [Rs 500].webp",
+        "BaseName":  "Palm Oil 500ml -"
     },
     {
-        "Path":  "images/Home Page Products/Suya Spices Authentic Home made Suya Powder 30g.webp",
+        "Path":  "images/Food Products and Drinks/African Food Items/Peak Full Cream Evaporated Milk 150g 5.4 oz [Rs 200].webp",
+        "BaseName":  "Peak Full Cream Evaporated Milk 150g 5.4 oz"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/African Food Items/Prekese (Soup Perfume) Osakirisa, Aidan Fruit, Uhio Uyayak [Rs 200].webp",
+        "BaseName":  "Prekese (Soup Perfume) Osakirisa, Aidan Fruit, Uhio Uyayak"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/African Food Items/Royco Flavour Seasoning Cube 100 Cubes [Rs 550].webp",
+        "BaseName":  "Royco Flavour Seasoning Cube 100 Cubes"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/African Food Items/Royco Flavour Seasoning Cube 14 Cubes [Rs 100].webp",
+        "BaseName":  "Royco Flavour Seasoning Cube 14 Cubes"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/African Food Items/Seahath - Sardines in Vegetable oil 125g [Rs 100].avif",
+        "BaseName":  "Seahath - Sardines in Vegetable oil 125g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/African Food Items/Stockfish Fins 100g [Rs 350].webp",
+        "BaseName":  "Stockfish Fins 100g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/African Food Items/Stockfish Head [Rs 450].webp",
+        "BaseName":  "Stockfish Head"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/African Food Items/Stockfish Head [Rs 500].webp",
+        "BaseName":  "Stockfish Head"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/African Food Items/Stockfish Head [Rs 750].jpg",
+        "BaseName":  "Stockfish Head"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/African Food Items/Stockish Head [Rs 350].webp",
+        "BaseName":  "Stockish Head"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/African Food Items/Suya Spices Authentic Home made Suya Powder 30g [Rs 100].webp",
         "BaseName":  "Suya Spices Authentic Home made Suya Powder 30g"
     },
     {
-        "Path":  "images/Home Page Products/Tiger Curry Powder Sachet 10g.webp",
-        "BaseName":  "Tiger Curry Powder Sachet 10g"
+        "Path":  "images/Food Products and Drinks/African Food Items/Tiger Curry Powder Sachet 100% Natural 10g [Rs 50].webp",
+        "BaseName":  "Tiger Curry Powder Sachet 100% Natural 10g"
     },
     {
-        "Path":  "images/Home Page Products/Tong Garden Coconut coated Peanuts  50g-60g.webp",
-        "BaseName":  "Tong Garden Coconut coated Peanuts  50g-60g"
+        "Path":  "images/Food Products and Drinks/African Food Items/Tiger Nutmeg Powder 100% from Nutmeg Seeds [Rs 50].webp",
+        "BaseName":  "Tiger Nutmeg Powder 100% from Nutmeg Seeds"
     },
     {
-        "Path":  "images/Home Page Products/Used Once - Like New Ghana Must Go Bags - Big \u0026 Large Size.avif",
-        "BaseName":  "Used Once - Like New Ghana Must Go Bags - Big \u0026 Large Size"
+        "Path":  "images/Food Products and Drinks/African Food Items/Titus Sardines 125g [Rs 200].webp",
+        "BaseName":  "Titus Sardines 125g"
     },
     {
-        "Path":  "images/Home Page Products/Yam ( Available on Demand ).avif",
-        "BaseName":  "Yam ( Available on Demand )"
+        "Path":  "images/Food Products and Drinks/African Food Items/Tom Tom Strong Menthol Flavored Candy 7 pieces [Rs 100].webp",
+        "BaseName":  "Tom Tom Strong Menthol Flavored Candy 7 pieces"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/African Food Items/Tom Tom Strong Menthol Flavoured Candy 40 pcs full pack [Rs 400].webp",
+        "BaseName":  "Tom Tom Strong Menthol Flavoured Candy 40 pcs full pack"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/African Food Items/Ulo-Uro Unsalted Roasted Edible Clay African Natural Chunky Crunchy clays Eko , Nzu, Ulo, Efun and Ndom 50g [Rs 100].webp",
+        "BaseName":  "Ulo-Uro Unsalted Roasted Edible Clay African Natural Chunky Crunchy clays Eko , Nzu, Ulo, Efun and Ndom 50g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/African Food Items/Umilo-Emilo-Omilo Cocoplum Seed Paradise plum Seed 25g [Rs 100].webp",
+        "BaseName":  "Umilo-Emilo-Omilo Cocoplum Seed Paradise plum Seed 25g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/African Food Items/Yam Available on Demand [Rs  NA].avif",
+        "BaseName":  "Yam Available on Demand"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Beverages/Malta Guinness 330ml [Rs 225].webp",
+        "BaseName":  "Malta Guinness 330ml"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Beverages/Nestle Golden Morn Nutrition  and tasty Family cereal 300g [Rs 400].webp",
+        "BaseName":  "Nestle Golden Morn Nutrition  and tasty Family cereal 300g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Beverages/Peak Full Cream Evaporated Milk 150g 5.4 oz [Rs 200].webp",
+        "BaseName":  "Peak Full Cream Evaporated Milk 150g 5.4 oz"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Beverages/Peak Instant Full Cream Milk Powder Sachet 360g [Rs 500].avif",
+        "BaseName":  "Peak Instant Full Cream Milk Powder Sachet 360g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Beverages/Vinut Red Grapes Fruit Juices with pulp 330ml [Rs 100].avif",
+        "BaseName":  "Vinut Red Grapes Fruit Juices with pulp 330ml"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Drinks/Malta Guinesse 330ml [Rs 225].webp",
+        "BaseName":  "Malta Guinesse 330ml"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Drinks/Vinut Soursop Juice 330ml [Rs 100].webp",
+        "BaseName":  "Vinut Soursop Juice 330ml"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Snacks/Chin Chin - Crunchy Milky Soft - 290g [Rs 150].jpg",
+        "BaseName":  "Chin Chin - Crunchy Milky Soft - 290g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Snacks/Heritage Home Made Milky Coated Peanuts In 320g Bottle [Rs 200].webp",
+        "BaseName":  "Heritage Home Made Milky Coated Peanuts In 320g Bottle"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Snacks/Kilishi Kusha Shagalinku kilishi (70g) Tasty Beef Jerky - Suya [Rs 250].webp",
+        "BaseName":  "Kilishi Kusha Shagalinku kilishi (70g) Tasty Beef Jerky - Suya"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Snacks/Roasted Peanuts Groundnut Freshly Packed [Rs 200].webp",
+        "BaseName":  "Roasted Peanuts Groundnut Freshly Packed"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Snacks/Tong Garden Coconut Coated Peanuts 50g and 60g [Rs 50].webp",
+        "BaseName":  "Tong Garden Coconut Coated Peanuts 50g and 60g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/7 Double Cubes Knorr Chicken cubes 50g [Rs 100].avif",
+        "BaseName":  "7 Double Cubes Knorr Chicken cubes 50g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/7 Double Cubes Knorr Cubes 50g [Rs 100].jpg",
+        "BaseName":  "7 Double Cubes Knorr Cubes 50g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Achi Seed - Akpa Soup Thickener Dried 30g [Rs 100].webp",
+        "BaseName":  "Achi Seed - Akpa Soup Thickener Dried 30g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Aguleri Ede Uri Cocoyam Soup Thickener 200g [Rs 200].webp",
+        "BaseName":  "Aguleri Ede Uri Cocoyam Soup Thickener 200g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Akpi-Djansang-Njanan-Munguella-wama-okhuen-bofeko 30g [Rs 100].webp",
+        "BaseName":  "Akpi-Djansang-Njanan-Munguella-wama-okhuen-bofeko 30g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Banga Spice Deep Favour Spices Powder [Rs 40].webp",
+        "BaseName":  "Banga Spice Deep Favour Spices Powder"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Benny Instant Chicken Stock Powder 17g [Rs 50].jpg",
+        "BaseName":  "Benny Instant Chicken Stock Powder 17g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Bitter Kola 35g [Rs 100].jpg",
+        "BaseName":  "Bitter Kola 35g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Black Pepper-Ashanti pepper - Uziza Seed - Ata Iyere 30g [Rs 100].jpg",
+        "BaseName":  "Black Pepper-Ashanti pepper - Uziza Seed - Ata Iyere 30g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Country Onion ,Pucks, Olum, Bobimbi, Roundelles 25g [Rs 100].webp",
+        "BaseName":  "Country Onion ,Pucks, Olum, Bobimbi, Roundelles 25g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Dried Alligator Pepper (one pod) [Rs 100].jpg",
+        "BaseName":  "Dried Alligator Pepper (one pod)"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Dried Cameroon pepper [Rs 100].jpg",
+        "BaseName":  "Dried Cameroon pepper"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Dried Organic tiger Nuts , Aya ( chufa nuts ) 1kg [Rs 1250].webp",
+        "BaseName":  "Dried Organic tiger Nuts , Aya ( chufa nuts ) 1kg"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Dried Organic Tiger Nuts, Aya (Chufa Nuts) 70g [Rs 100].jpg",
+        "BaseName":  "Dried Organic Tiger Nuts, Aya (Chufa Nuts) 70g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Dried Red Chilli Pepper [Rs 50].webp",
+        "BaseName":  "Dried Red Chilli Pepper"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Dried Ugba - Ukpaka 25g [Rs 100].jpg",
+        "BaseName":  "Dried Ugba - Ukpaka 25g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Dried Utazi otazi - Arokeke Giloy - Bush Buck leaves (latifolium) [Rs 100].jpg",
+        "BaseName":  "Dried Utazi otazi - Arokeke Giloy - Bush Buck leaves (latifolium)"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Ducros Curry Powder 25g [Rs 100].jpg",
+        "BaseName":  "Ducros Curry Powder 25g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Ducros Dried Thyme Powder 25g [Rs 100].jpg",
+        "BaseName":  "Ducros Dried Thyme Powder 25g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Edible Potash - Kaun - Akanwa or Kanwa 25g [Rs 100].jpg",
+        "BaseName":  "Edible Potash - Kaun - Akanwa or Kanwa 25g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Egusi (Melon Seed) 75g [Rs 100].jpg",
+        "BaseName":  "Egusi (Melon Seed) 75g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Egusi Onga Spices Powder for Egusi Soup 8g [Rs 50].webp",
+        "BaseName":  "Egusi Onga Spices Powder for Egusi Soup 8g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Ehuru-Eru-Ariwo-Calabash Nutmeg - Jamaican Nutmeg - African Nutmeg Unpeeled 25g [Rs 100].jpg",
+        "BaseName":  "Ehuru-Eru-Ariwo-Calabash Nutmeg - Jamaican Nutmeg - African Nutmeg Unpeeled 25g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Fermented Dried African Locust beans - Iru, Dawa, Ogiri 25g (sumbla, netetou, kainda) [Rs 100].webp",
+        "BaseName":  "Fermented Dried African Locust beans - Iru, Dawa, Ogiri 25g (sumbla, netetou, kainda)"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Grounded Mixed pepper soup , peppersoup Spices Powder 25g [Rs 100].jpg",
+        "BaseName":  "Grounded Mixed pepper soup , peppersoup Spices Powder 25g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Kitchen Glory Beef flavour seasoning Powder 10g [Rs 50].jpg",
+        "BaseName":  "Kitchen Glory Beef flavour seasoning Powder 10g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Kitchen Glory Chicken Flavour Seasoning Powder 10g [Rs 50].jpg",
+        "BaseName":  "Kitchen Glory Chicken Flavour Seasoning Powder 10g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Kitchen Glory Fish Flavour Seasoning Powder 10g [Rs 50].jpg",
+        "BaseName":  "Kitchen Glory Fish Flavour Seasoning Powder 10g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Knorr Chicken Cubes 45 double cubes [Rs 550].webp",
+        "BaseName":  "Knorr Chicken Cubes 45 double cubes"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Knorr Cubes 45 double cubes [Rs 550].webp",
+        "BaseName":  "Knorr Cubes 45 double cubes"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Larsor Chicken seasoning [Rs 50].webp",
+        "BaseName":  "Larsor Chicken seasoning"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Larsor peppersoup Seasoning 10g [Rs 50].avif",
+        "BaseName":  "Larsor peppersoup Seasoning 10g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Maggi Chicken Flavour Cubes (100 Cubes) [Rs 550].avif",
+        "BaseName":  "Maggi Chicken Flavour Cubes (100 Cubes)"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Maggi chicken flavour seasoning 14 cubes [Rs 100].webp",
+        "BaseName":  "Maggi chicken flavour seasoning 14 cubes"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Maggi Star Seasoning 14 cubes 50g [Rs 100].webp",
+        "BaseName":  "Maggi Star Seasoning 14 cubes 50g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Maggi Star Seasoning Cubes - 100 cubes [Rs 550].jpg",
+        "BaseName":  "Maggi Star Seasoning Cubes - 100 cubes"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Napa Goat Meat Flavour Assaisonnement seasoning 10g [Rs 50].jpg",
+        "BaseName":  "Napa Goat Meat Flavour Assaisonnement seasoning 10g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Negro Pepper- Eeru -Alamo-Uda 20g [Rs 100].jpg",
+        "BaseName":  "Negro Pepper- Eeru -Alamo-Uda 20g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Ogbono (Irvingia Gabonensis ) 45g [Rs 100].jpg",
+        "BaseName":  "Ogbono (Irvingia Gabonensis ) 45g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Ogiri Okpei (Fermented castor Seed) [Rs 100].jpg",
+        "BaseName":  "Ogiri Okpei (Fermented castor Seed)"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Onga Stew \u0026 soup seasoning Sachet 8g [Rs 50].avif",
+        "BaseName":  "Onga Stew \u0026 soup seasoning Sachet 8g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Orima Seeds, Ataiko Seed Purelyagro Oriomio Banga Spice 25g [Rs 100].webp",
+        "BaseName":  "Orima Seeds, Ataiko Seed Purelyagro Oriomio Banga Spice 25g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Prekese (Soup perfume) Osakirisa Aidan fruit , Uhio, Uyayak [Rs 200].webp",
+        "BaseName":  "Prekese (Soup perfume) Osakirisa Aidan fruit , Uhio, Uyayak"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Royco Flavour Seasoning Cube 14 Cubes [Rs 100].webp",
+        "BaseName":  "Royco Flavour Seasoning Cube 14 Cubes"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Royco Flavour Seasoning Cubes 100 cubes [Rs 550].webp",
+        "BaseName":  "Royco Flavour Seasoning Cubes 100 cubes"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Scent leaves , Dried Nchuanwu-Efirin African basil ( basilic sauvage ; menthe gabonaise) [Rs 100].jpg",
+        "BaseName":  "Scent leaves , Dried Nchuanwu-Efirin African basil ( basilic sauvage ; menthe gabonaise)"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Spicity Fried Rice Spices Seasoning Powder 10g [Rs 50].jpg",
+        "BaseName":  "Spicity Fried Rice Spices Seasoning Powder 10g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/SpiCity Seasoning Powder - stew \u0026 Joll of 10g [Rs 50].jpg",
+        "BaseName":  "SpiCity Seasoning Powder - stew \u0026 Joll of 10g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Suya Spices Authentic Home Made Suya Powder 30g [Rs 100].webp",
+        "BaseName":  "Suya Spices Authentic Home Made Suya Powder 30g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Tiger Curry Powder Sachet 100% Natural 10g [Rs 50].webp",
+        "BaseName":  "Tiger Curry Powder Sachet 100% Natural 10g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Tiger Nutmeg Powder 100% From Nutmeg Seeds [Rs 50].webp",
+        "BaseName":  "Tiger Nutmeg Powder 100% From Nutmeg Seeds"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/Umilo-Emilo-Omilo Cocoplum Seed, Paradise Plum Seed 25g [Rs 100].webp",
+        "BaseName":  "Umilo-Emilo-Omilo Cocoplum Seed, Paradise Plum Seed 25g"
+    },
+    {
+        "Path":  "images/Food Products and Drinks/Spices/White Soup Spices powder [Rs 40].jpg",
+        "BaseName":  "White Soup Spices powder"
     }
 ]
