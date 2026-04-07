@@ -10,10 +10,16 @@ foreach ($catDir in $categories) {
     
     # Handle Gallery separately
     if ($catDir.Name -eq "Gallery") {
-        $files = Get-ChildItem -Path $catDir.FullName -File -Filter *.* | Where-Object { $_.Extension -match "jpg|jpeg|png|webp|avif" }
+        $files = Get-ChildItem -Path $catDir.FullName -File -Filter *.* | Where-Object { $_.Extension -match "jpg|jpeg|png|webp|avif|mp4|webm" }
         foreach ($file in $files) {
+            $baseName = $file.BaseName
+            # Parse link if present: [link--type--id]
+            $linkMatch = [regex]::Match($baseName, '\[link--(.*?)--(.*?)\]')
+            $link = if ($linkMatch.Success) { "https://www.instagram.com/$($linkMatch.Groups[1].Value)/$($linkMatch.Groups[2].Value)/" } else { "" }
+            
             $manifest.gallery += @{
                 image = "images/Gallery/$($file.Name)"
+                link  = $link
             }
         }
         continue

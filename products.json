@@ -1605,6 +1605,17 @@
                        }
                    ],
     "gallery":  [
-
+                    {
+                        "link":  "https://www.instagram.com/p/CsIib7oBvlU/",
+                        "image":  "images/Gallery/Instagram Image Post [link--p--CsIib7oBvlU].jpg"
+                    },
+                    {
+                        "link":  "https://www.instagram.com/reel/DDCfHMFB_qU/",
+                        "image":  "images/Gallery/Instagram Reel 1 [link--reel--DDCfHMFB_qU].mp4"
+                    },
+                    {
+                        "link":  "https://www.instagram.com/reel/DOIStMtAbln/",
+                        "image":  "images/Gallery/Instagram Reel 2 [link--reel--DOIStMtAbln].mp4"
+                    }
                 ]
 }

@@ -242,15 +242,45 @@ document.addEventListener('DOMContentLoaded', () => {
         galleryImages.forEach(imgData => {
             const item = document.createElement('div');
             item.className = 'gallery-item';
+            if (imgData.link) {
+                item.style.cursor = 'pointer';
+                item.onclick = () => window.open(imgData.link, '_blank');
+            }
+
+            const isVideo = imgData.image.match(/\.(mp4|webm)$/i);
             
-            const img = document.createElement('img');
-            // Robustly encode the image path
-            const encodedPath = imgData.image.split('/').map(segment => encodeURIComponent(segment)).join('/');
-            img.src = encodedPath;
-            img.alt = "Gallery Image";
-            img.loading = 'lazy';
+            if (isVideo) {
+                const video = document.createElement('video');
+                const encodedPath = imgData.image.split('/').map(segment => encodeURIComponent(segment)).join('/');
+                video.src = encodedPath;
+                video.muted = true;
+                video.loop = true;
+                video.playsInline = true;
+                video.autoplay = true;
+                item.appendChild(video);
+
+                // Add Reel/Video Icon
+                const overlay = document.createElement('div');
+                overlay.className = 'gallery-overlay';
+                overlay.innerHTML = '<i class="fas fa-play"></i>';
+                item.appendChild(overlay);
+            } else {
+                const img = document.createElement('img');
+                const encodedPath = imgData.image.split('/').map(segment => encodeURIComponent(segment)).join('/');
+                img.src = encodedPath;
+                img.alt = "Gallery Image";
+                img.loading = 'lazy';
+                item.appendChild(img);
+                
+                // Add Instagram icon if it's a link
+                if (imgData.link) {
+                    const overlay = document.createElement('div');
+                    overlay.className = 'gallery-overlay';
+                    overlay.innerHTML = '<i class="fab fa-instagram"></i>';
+                    item.appendChild(overlay);
+                }
+            }
             
-            item.appendChild(img);
             galleryGrid.appendChild(item);
         });
     }
